@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "harper",
+    "last": "rose"
+  },
+  "location": {
+    "street": "9480 ranchview dr",
+    "city": "lakewood",
+    "state": "massachusetts",
+    "postcode": 47880
+  },
+  "email": "harper.rose@example.com",
+  "dob": "1994-03-04 01:06:35",
+  "phone": "(976)-744-3218",
+  "cell": "(608)-210-4670",
+  "id": "912-01-8675",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/71.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+  }
+}

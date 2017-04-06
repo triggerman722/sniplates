@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "warren",
+    "last": "mitchelle"
+  },
+  "location": {
+    "street": "4924 oak ridge ln",
+    "city": "tacoma",
+    "state": "louisiana",
+    "postcode": 71774
+  },
+  "email": "warren.mitchelle@example.com",
+  "dob": "1980-01-18 07:07:29",
+  "phone": "(588)-754-5367",
+  "cell": "(841)-297-2255",
+  "id": "663-50-1821",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/41.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "victoria",
+    "last": "bell"
+  },
+  "location": {
+    "street": "9145 hunters creek dr",
+    "city": "santa maria",
+    "state": "new york",
+    "postcode": 21474
+  },
+  "email": "victoria.bell@example.com",
+  "dob": "1949-07-08 01:59:49",
+  "phone": "(553)-088-7346",
+  "cell": "(794)-709-8422",
+  "id": "159-37-9988",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/45.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/45.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/45.jpg"
+  }
+}

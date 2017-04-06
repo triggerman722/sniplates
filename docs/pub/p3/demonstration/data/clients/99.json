@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "ross",
+    "last": "castro"
+  },
+  "location": {
+    "street": "4375 blossom hill rd",
+    "city": "chesapeake",
+    "state": "louisiana",
+    "postcode": 75896
+  },
+  "email": "ross.castro@example.com",
+  "dob": "1971-12-17 23:49:48",
+  "phone": "(524)-804-2875",
+  "cell": "(621)-103-3388",
+  "id": "381-60-9268",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/24.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+  }
+}

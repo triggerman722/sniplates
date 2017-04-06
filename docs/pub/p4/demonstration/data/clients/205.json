@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "jane",
+    "last": "dixon"
+  },
+  "location": {
+    "street": "8107 w pecan st",
+    "city": "elgin",
+    "state": "indiana",
+    "postcode": 15267
+  },
+  "email": "jane.dixon@example.com",
+  "dob": "1944-12-29 13:27:11",
+  "phone": "(682)-245-0457",
+  "cell": "(601)-295-4608",
+  "id": "317-51-9007",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/47.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/47.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/47.jpg"
+  }
+}

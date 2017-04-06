@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "leta",
+    "last": "wilson"
+  },
+  "location": {
+    "street": "5252 sunset st",
+    "city": "birmingham",
+    "state": "delaware",
+    "postcode": 33911
+  },
+  "email": "leta.wilson@example.com",
+  "dob": "1954-01-11 14:12:52",
+  "phone": "(648)-049-1316",
+  "cell": "(563)-992-3549",
+  "id": "463-84-5402",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+  }
+}

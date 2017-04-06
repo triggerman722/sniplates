@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "ronnie",
+    "last": "sanchez"
+  },
+  "location": {
+    "street": "4249 timber wolf trail",
+    "city": "south valley",
+    "state": "georgia",
+    "postcode": 24577
+  },
+  "email": "ronnie.sanchez@example.com",
+  "dob": "1961-10-27 01:45:33",
+  "phone": "(436)-110-8249",
+  "cell": "(581)-959-6556",
+  "id": "272-90-8910",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+  }
+}

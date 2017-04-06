@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "eddie",
+    "last": "hughes"
+  },
+  "location": {
+    "street": "2423 fincher rd",
+    "city": "elizabeth",
+    "state": "kansas",
+    "postcode": 28470
+  },
+  "email": "eddie.hughes@example.com",
+  "dob": "1975-05-20 21:56:36",
+  "phone": "(416)-328-7766",
+  "cell": "(991)-161-9357",
+  "id": "024-52-1780",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/99.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+  }
+}

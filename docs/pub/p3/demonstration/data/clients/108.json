@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "willard",
+    "last": "adams"
+  },
+  "location": {
+    "street": "2872 oak ridge ln",
+    "city": "dayton",
+    "state": "massachusetts",
+    "postcode": 52543
+  },
+  "email": "willard.adams@example.com",
+  "dob": "1990-11-15 20:09:35",
+  "phone": "(921)-031-8667",
+  "cell": "(091)-481-3185",
+  "id": "751-64-3958",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+  }
+}

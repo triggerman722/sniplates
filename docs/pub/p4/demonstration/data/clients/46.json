@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "reginald",
+    "last": "barnett"
+  },
+  "location": {
+    "street": "4461 green rd",
+    "city": "waco",
+    "state": "nebraska",
+    "postcode": 85682
+  },
+  "email": "reginald.barnett@example.com",
+  "dob": "1979-07-04 01:42:25",
+  "phone": "(842)-050-8471",
+  "cell": "(839)-060-5120",
+  "id": "577-89-2735",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
+  }
+}

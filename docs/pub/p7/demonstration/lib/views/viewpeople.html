@@ -1,0 +1,48 @@
+<ol class="breadcrumb">
+	<li><a href="#/dashboard"><i class="fa fa-home"></i> Home</a></li>
+	<li><a href="#/clients"><i class="fa fa-users"></i> Clients</a></li>  
+	<li class="active"><i class="fa fa-user"></i> {{item.name.first}} {{item.name.last}}</li>
+</ol>
+<div class="panel">
+	<div style="height:10em;background-image:url(data/img/ama.jpg)" class="well bg-primary">
+		<h1 class="pull-right">{{item.name.first}} {{item.name.last}}</h1>
+	</div>
+	<div class="row">		
+		<div class="col-md-2">
+			<a href="#" style=" margin-top: -70px; display: block; ">
+				<img class="img-circle img-thumbnail" src="{{item.picture.large}}" />
+			</a>
+		</div>
+		<div class="col-md-10">
+			<dl class="row">
+				<dt class="col-md-2">Name:</dt>
+				<dd class="col-md-10">{{item.name.first}} {{item.name.last}}</dd>
+			</dl>
+			<dl class="row">
+				<dt class="col-md-2">Date of Birth:</dt>
+				<dd class="col-md-10">{{item.dob}}</dd>
+			</dl>
+			<dl class="row">
+				<dt class="col-md-2">Phone:</dt>
+				<dd class="col-md-10">{{item.phone}}</dd>
+			</dl>
+			<dl class="row">
+				<dt class="col-md-2">Cell:</dt>
+				<dd class="col-md-10">{{item.cell}}</dd>
+			</dl>
+			<dl class="row">
+				<dt class="col-md-2">Address:</dt>
+				<dd class="col-md-10"><address class="text-capitalize">						
+							{{item.location.street}}<br />
+							{{item.location.city}}, {{item.location.state}} {{item.location.postcode}}<br />
+							<abbr title="Phone">P:</abbr> {{item.phone}}
+						</address></dd>
+			</dl>
+			<dl class="row">
+				<dt class="col-md-2">Skills:</dt>
+				<dd class="col-md-10"><span class="label label-info">Negotiation</span> <span class="label label-info">Discovery</span> <span class="label label-info">Settlement</span> <span class="label label-info">Family</span> <span class="label label-info">Court</span></dd>
+			</dl>
+		</div>
+	</div>
+</div>
+<br><br><br><br><br>

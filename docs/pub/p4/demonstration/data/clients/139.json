@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "judd",
+    "last": "ross"
+  },
+  "location": {
+    "street": "8083 lovers ln",
+    "city": "palmdale",
+    "state": "nevada",
+    "postcode": 74035
+  },
+  "email": "judd.ross@example.com",
+  "dob": "1955-02-14 04:58:59",
+  "phone": "(462)-876-0922",
+  "cell": "(020)-909-6062",
+  "id": "509-24-4385",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/5.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+  }
+}

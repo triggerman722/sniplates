@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "christine",
+    "last": "barnes"
+  },
+  "location": {
+    "street": "7026 w pecan st",
+    "city": "cedar rapids",
+    "state": "oregon",
+    "postcode": 97816
+  },
+  "email": "christine.barnes@example.com",
+  "dob": "1955-10-23 15:29:46",
+  "phone": "(409)-118-6941",
+  "cell": "(487)-890-2145",
+  "id": "035-16-4390",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/20.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/20.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
+  }
+}

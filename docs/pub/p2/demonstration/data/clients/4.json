@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "violet",
+    "last": "sanders"
+  },
+  "location": {
+    "street": "4946 w pecan st",
+    "city": "chicago",
+    "state": "oregon",
+    "postcode": 77559
+  },
+  "email": "violet.sanders@example.com",
+  "dob": "1984-06-29 06:25:52",
+  "phone": "(290)-575-7160",
+  "cell": "(305)-163-6166",
+  "id": "177-75-1404",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/11.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+  }
+}

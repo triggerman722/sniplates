@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "cassandra",
+    "last": "ramirez"
+  },
+  "location": {
+    "street": "8721 e center st",
+    "city": "grapevine",
+    "state": "new jersey",
+    "postcode": 72860
+  },
+  "email": "cassandra.ramirez@example.com",
+  "dob": "1958-12-07 04:56:09",
+  "phone": "(885)-325-7876",
+  "cell": "(501)-702-7166",
+  "id": "415-24-1879",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+  }
+}

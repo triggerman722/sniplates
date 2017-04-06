@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "jim",
+    "last": "day"
+  },
+  "location": {
+    "street": "2525 crockett st",
+    "city": "billings",
+    "state": "texas",
+    "postcode": 91114
+  },
+  "email": "jim.day@example.com",
+  "dob": "1981-06-04 18:53:42",
+  "phone": "(966)-497-7667",
+  "cell": "(350)-684-9060",
+  "id": "273-27-2260",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+  }
+}

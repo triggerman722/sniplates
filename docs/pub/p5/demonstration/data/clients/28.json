@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "audrey",
+    "last": "moreno"
+  },
+  "location": {
+    "street": "5580 fincher rd",
+    "city": "redding",
+    "state": "connecticut",
+    "postcode": 74589
+  },
+  "email": "audrey.moreno@example.com",
+  "dob": "1956-02-06 20:10:54",
+  "phone": "(991)-242-3207",
+  "cell": "(508)-088-9129",
+  "id": "104-60-7868",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/62.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "zachary",
+    "last": "vasquez"
+  },
+  "location": {
+    "street": "7345 fincher rd",
+    "city": "dumas",
+    "state": "oklahoma",
+    "postcode": 32990
+  },
+  "email": "zachary.vasquez@example.com",
+  "dob": "1974-05-20 22:06:27",
+  "phone": "(806)-831-0452",
+  "cell": "(872)-689-4765",
+  "id": "030-10-6816",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/87.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+  }
+}

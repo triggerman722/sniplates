@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="DemoApp">
+<head>
+	<meta charset="utf-8">
+	<title>DemoApp</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Tests how to render stuff well.">
+	<meta name="author" content="Greg Martin">
+	<link href='http://fonts.googleapis.com/css?family=Lilita+One|Candal|Kaushan+Script|Courgette' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type='text/css'>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap-theme.min.css" rel="stylesheet" type='text/css'>
+	<link href="ref/cp/css/cp.css" rel="stylesheet">
+</head>
+
+<body>
+<div class="container">
+	<div class="row">
+		<nav class="navbar navbar-default">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainnavbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#/" ><img src="data/img/brand.png"></a>
+				</div>
+				<div class="collapse navbar-collapse" id="mainnavbar">						
+					<ul class="nav navbar-nav navbar-right">									
+						<li><a href="#/dashboard"><i class="glyphicon glyphicon-user"></i> Dashboard</a></li>       
+						<li><a href="#/documents"><i class="glyphicon glyphicon-user"></i> Documents</a></li>       
+						<li><a href="#/clients"><i class="glyphicon glyphicon-user"></i> Clients</a></li>       
+						<li><a href="#/cases"><i class="glyphicon glyphicon-user"></i> Cases</a></li>       
+						<li><a href="#/about"><i class="glyphicon glyphicon-user"></i> About</a></li>       
+					</ul>	 
+				</div>
+			</div>
+		</nav>
+		<div class="col-12" ng-view>		
+		</div> 
+
+	</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular-resource.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular-route.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi?.js"></script>
+
+<script src="lib/js/app.js"></script>
+
+</body>
+</html>

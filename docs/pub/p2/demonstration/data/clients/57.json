@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "floyd",
+    "last": "stephens"
+  },
+  "location": {
+    "street": "4980 wheeler ridge dr",
+    "city": "seymour",
+    "state": "wyoming",
+    "postcode": 88717
+  },
+  "email": "floyd.stephens@example.com",
+  "dob": "1948-10-18 04:47:30",
+  "phone": "(704)-350-7165",
+  "cell": "(441)-919-3630",
+  "id": "988-70-6209",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/29.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "charlene",
+    "last": "bennett"
+  },
+  "location": {
+    "street": "9425 sunset st",
+    "city": "inglewood",
+    "state": "minnesota",
+    "postcode": 22817
+  },
+  "email": "charlene.bennett@example.com",
+  "dob": "1989-04-09 06:59:31",
+  "phone": "(611)-016-3662",
+  "cell": "(661)-455-0236",
+  "id": "708-29-0760",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/19.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+  }
+}

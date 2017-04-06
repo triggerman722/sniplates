@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "ashley",
+    "last": "wagner"
+  },
+  "location": {
+    "street": "9592 hickory creek dr",
+    "city": "great falls",
+    "state": "tennessee",
+    "postcode": 27761
+  },
+  "email": "ashley.wagner@example.com",
+  "dob": "1948-12-03 09:46:31",
+  "phone": "(571)-308-5899",
+  "cell": "(660)-941-0974",
+  "id": "484-56-6327",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/5.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+  }
+}

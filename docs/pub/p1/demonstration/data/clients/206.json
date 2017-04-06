@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "ruben",
+    "last": "hunter"
+  },
+  "location": {
+    "street": "2778 spring st",
+    "city": "davenport",
+    "state": "south dakota",
+    "postcode": 44849
+  },
+  "email": "ruben.hunter@example.com",
+  "dob": "1984-10-15 15:52:20",
+  "phone": "(237)-047-2329",
+  "cell": "(656)-923-8902",
+  "id": "835-56-9544",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/70.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+  }
+}

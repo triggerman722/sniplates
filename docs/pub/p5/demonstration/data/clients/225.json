@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "madison",
+    "last": "baker"
+  },
+  "location": {
+    "street": "4226 e sandy lake rd",
+    "city": "des moines",
+    "state": "nevada",
+    "postcode": 33553
+  },
+  "email": "madison.baker@example.com",
+  "dob": "1951-06-07 01:27:51",
+  "phone": "(117)-017-0952",
+  "cell": "(452)-504-1219",
+  "id": "714-85-9989",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+  }
+}

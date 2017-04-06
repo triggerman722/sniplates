@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "riley",
+    "last": "montgomery"
+  },
+  "location": {
+    "street": "3045 oak lawn ave",
+    "city": "cambridge",
+    "state": "tennessee",
+    "postcode": 97175
+  },
+  "email": "riley.montgomery@example.com",
+  "dob": "1963-06-26 13:09:55",
+  "phone": "(350)-394-9865",
+  "cell": "(200)-608-7489",
+  "id": "556-28-3539",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+  }
+}

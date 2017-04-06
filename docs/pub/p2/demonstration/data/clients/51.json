@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "celina",
+    "last": "riley"
+  },
+  "location": {
+    "street": "5166 mcclellan rd",
+    "city": "seattle",
+    "state": "new mexico",
+    "postcode": 38985
+  },
+  "email": "celina.riley@example.com",
+  "dob": "1982-10-23 16:44:44",
+  "phone": "(053)-315-7993",
+  "cell": "(452)-500-2837",
+  "id": "489-13-9230",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/82.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+  }
+}

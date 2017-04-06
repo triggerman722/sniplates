@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "sandra",
+    "last": "fowler"
+  },
+  "location": {
+    "street": "7881 fairview st",
+    "city": "charleston",
+    "state": "oklahoma",
+    "postcode": 82082
+  },
+  "email": "sandra.fowler@example.com",
+  "dob": "1977-03-15 07:24:21",
+  "phone": "(652)-628-1251",
+  "cell": "(411)-534-6833",
+  "id": "218-33-2374",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+  }
+}

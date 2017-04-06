@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "sergio",
+    "last": "wheeler"
+  },
+  "location": {
+    "street": "1419 walnut hill ln",
+    "city": "greensboro",
+    "state": "mississippi",
+    "postcode": 33216
+  },
+  "email": "sergio.wheeler@example.com",
+  "dob": "1983-03-03 15:33:41",
+  "phone": "(353)-871-4784",
+  "cell": "(213)-925-0286",
+  "id": "090-96-0898",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/23.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "kelly",
+    "last": "james"
+  },
+  "location": {
+    "street": "4334 railroad st",
+    "city": "sacramento",
+    "state": "pennsylvania",
+    "postcode": 63814
+  },
+  "email": "kelly.james@example.com",
+  "dob": "1954-11-18 21:10:46",
+  "phone": "(926)-527-3583",
+  "cell": "(537)-519-4253",
+  "id": "349-20-6007",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/28.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
+  }
+}

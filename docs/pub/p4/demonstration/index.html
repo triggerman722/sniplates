@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="DemoApp">
+<head>
+	<meta charset="utf-8">
+	<title>DemoApp</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Tests how to render stuff well.">
+	<meta name="author" content="Greg Martin">
+	<link href='http://fonts.googleapis.com/css?family=Lilita+One|Candal|Kaushan+Script|Courgette' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type='text/css'>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap-theme.min.css" rel="stylesheet" type='text/css'>
+	<link href="ref/cp/css/cp.css" rel="stylesheet">
+	<link href="ref/bootcolor/css/bootcolor.css" rel="stylesheet">
+</head>
+
+<body>
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+	<img src="data/img/brand.png" class="img">
+
+
+    </div>
+    <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#/dashboard"><i class="fa fa-home"></i> Home</a></li>
+      </ul>	 
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid">
+    <div class="row">
+		<div class="col-sm-3 col-md-2 sidebar" ng-controller="DemoCtrl">
+			<ul class="nav nav-sidebar">
+				<li ng-class="{active:isActive('/dashboard')}"><a href="#/dashboard"><i class="fa fa-tachometer"></i> Dashboard</a></li>		
+				<li ng-class="{active:isActive('/clients')}"><a href="#/clients"><i class="fa fa-users"></i> Clients</a></li>             
+				<li ng-class="{active:isActive('/cases')}"><a href="#/cases"><i class="fa fa-briefcase"></i> Cases</a></li>  
+				<li ng-class="{active:isActive('/documents')}"><a href="#/documents"><i class="fa fa-files-o"></i> Documents</a></li>
+				<li ng-class="{active:isActive('/about')}"><a href="#/about"><i class="fa fa-info-circle"></i> About</a></li>    
+			</ul>
+		</div>
+		<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" ng-view>
+		</div>
+		
+    </div>
+</div>
+<footer class="footer">
+	<div class="container  col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2">
+		<div class="row">
+			<div class="col-md-8">
+				<h4>Sniplates</h4>
+				<p class="text-muted"><a href="../../../index.html">Sniplates</a> is a site I put together to contain open source content for <a href="https://v4-alpha.getbootstrap.com">Bootstrap</a> and <a href="https://angular.io/">AngularJS</a> based web apps. As much as possible, I try to avoid additional CSS classes, as they will eventually bite you (i.e. try to stick as close to the "Bootstrap metal" as possible).</p>
+			</div>
+			<div class="col-md-4">
+				<h4 class="text-white">Contact</h4>
+				<ul class="list-unstyled">
+					<li><a href="#" class="text-white">Follow on Twitter</a></li>
+					<li><a href="#" class="text-white">Like on Facebook</a></li>
+					<li><a href="#" class="text-white">Email me</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular-resource.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular-route.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi?.js"></script>
+
+
+<script src="lib/js/app.js"></script>
+
+</body>
+</html>

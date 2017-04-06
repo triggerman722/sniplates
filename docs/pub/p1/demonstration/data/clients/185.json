@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "christy",
+    "last": "washington"
+  },
+  "location": {
+    "street": "6270 e center st",
+    "city": "shelby",
+    "state": "michigan",
+    "postcode": 98247
+  },
+  "email": "christy.washington@example.com",
+  "dob": "1947-10-28 04:22:03",
+  "phone": "(255)-215-9399",
+  "cell": "(614)-612-3566",
+  "id": "637-43-8181",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/17.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
+  }
+}

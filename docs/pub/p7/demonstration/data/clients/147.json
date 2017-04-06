@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "benjamin",
+    "last": "rice"
+  },
+  "location": {
+    "street": "8608 w gray st",
+    "city": "north las vegas",
+    "state": "washington",
+    "postcode": 18999
+  },
+  "email": "benjamin.rice@example.com",
+  "dob": "1992-05-14 12:49:56",
+  "phone": "(981)-343-5983",
+  "cell": "(047)-730-7571",
+  "id": "202-89-6908",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/66.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+  }
+}

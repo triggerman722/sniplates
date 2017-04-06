@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "june",
+    "last": "nichols"
+  },
+  "location": {
+    "street": "1433 stevens creek blvd",
+    "city": "honolulu",
+    "state": "wyoming",
+    "postcode": 13745
+  },
+  "email": "june.nichols@example.com",
+  "dob": "1953-03-07 07:19:38",
+  "phone": "(306)-651-1697",
+  "cell": "(587)-358-6363",
+  "id": "761-67-0577",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+  }
+}

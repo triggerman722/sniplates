@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "danielle",
+    "last": "garrett"
+  },
+  "location": {
+    "street": "5605 college st",
+    "city": "fairfield",
+    "state": "florida",
+    "postcode": 81282
+  },
+  "email": "danielle.garrett@example.com",
+  "dob": "1978-10-17 07:04:16",
+  "phone": "(441)-121-6168",
+  "cell": "(395)-001-2443",
+  "id": "109-61-9136",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/6.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "annie",
+    "last": "lawrence"
+  },
+  "location": {
+    "street": "9775 karen dr",
+    "city": "sacramento",
+    "state": "rhode island",
+    "postcode": 87347
+  },
+  "email": "annie.lawrence@example.com",
+  "dob": "1989-11-30 14:06:51",
+  "phone": "(521)-466-9216",
+  "cell": "(670)-356-1103",
+  "id": "412-33-4563",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+  }
+}

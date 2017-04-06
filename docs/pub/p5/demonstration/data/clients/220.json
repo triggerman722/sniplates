@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "miguel",
+    "last": "gray"
+  },
+  "location": {
+    "street": "4526 robinson rd",
+    "city": "lubbock",
+    "state": "utah",
+    "postcode": 27993
+  },
+  "email": "miguel.gray@example.com",
+  "dob": "1947-10-22 12:46:42",
+  "phone": "(681)-898-7136",
+  "cell": "(813)-916-8591",
+  "id": "669-84-8443",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
+  }
+}

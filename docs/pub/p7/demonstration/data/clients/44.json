@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "vicki",
+    "last": "lucas"
+  },
+  "location": {
+    "street": "7137 wycliff ave",
+    "city": "ennis",
+    "state": "virginia",
+    "postcode": 13307
+  },
+  "email": "vicki.lucas@example.com",
+  "dob": "1990-06-04 11:08:37",
+  "phone": "(131)-214-2796",
+  "cell": "(611)-576-3995",
+  "id": "702-23-6036",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/33.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/33.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
+  }
+}

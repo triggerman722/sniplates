@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "ben",
+    "last": "castillo"
+  },
+  "location": {
+    "street": "2150 railroad st",
+    "city": "indianapolis",
+    "state": "alabama",
+    "postcode": 55397
+  },
+  "email": "ben.castillo@example.com",
+  "dob": "1975-01-22 12:53:48",
+  "phone": "(003)-233-3570",
+  "cell": "(057)-638-7873",
+  "id": "635-14-5589",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+  }
+}

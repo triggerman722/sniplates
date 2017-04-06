@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "janice",
+    "last": "west"
+  },
+  "location": {
+    "street": "3016 dane st",
+    "city": "west covina",
+    "state": "florida",
+    "postcode": 31873
+  },
+  "email": "janice.west@example.com",
+  "dob": "1948-01-17 14:17:32",
+  "phone": "(023)-844-3867",
+  "cell": "(110)-869-1394",
+  "id": "065-90-8756",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/48.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+  }
+}

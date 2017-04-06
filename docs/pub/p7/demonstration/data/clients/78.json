@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "brandie",
+    "last": "marshall"
+  },
+  "location": {
+    "street": "1557 walnut hill ln",
+    "city": "washington",
+    "state": "nebraska",
+    "postcode": 25612
+  },
+  "email": "brandie.marshall@example.com",
+  "dob": "1975-06-06 06:48:48",
+  "phone": "(053)-789-7306",
+  "cell": "(953)-878-4529",
+  "id": "941-41-1245",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/48.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+  }
+}

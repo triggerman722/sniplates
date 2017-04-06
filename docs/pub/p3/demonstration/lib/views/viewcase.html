@@ -1,0 +1,60 @@
+<ol class="breadcrumb">
+	<li><a href="#">Home</a></li>
+	<li><a href="#/cases">Cases</a></li>
+	<li class="active">{{item.title}}</li>
+</ol>
+
+<h1 class="page-header">{{item.title}}</h1>
+<div class="panel panel-info">
+	<div class="panel-heading">
+		<h3 class="panel-title">Clients: {{item.clients.length}}</h3>
+	</div>
+	<div class="panel-body">
+		<div ng-repeat="person in item.clients" class="list-group">
+			<div class="media">
+				<div class="media-left">
+				<a href="#/clients/{{person.id}}"><img ng-src="{{person.picture.large}}" alt="{{person.email}}" class="img-circle"></a>
+				</div>
+				<div class="media-body">
+					<address class="text-capitalize">
+						<a href="#/clients/{{person.id}}" ><strong>{{person.name.first}} {{person.name.last}}</strong></a><br />
+						{{person.location.street}}<br />
+						{{person.location.city}}, {{person.location.state}} {{person.location.postcode}}<br />
+						<abbr title="Phone">P:</abbr> {{person.phone}}
+					</address>
+				</div>
+			</div>
+			<hr/>
+		</div>    
+	</div>
+</div>
+
+
+
+<div class="panel panel-info">
+	<div class="panel-heading">
+		<h3 class="panel-title">Documents: {{item.documents.length}}</h3>
+	</div>
+	<div class="panel-body">
+		<div ng-repeat="document in item.documents" class="list-group">			
+			<div class="media">
+				<div class="media-left">
+				<a href="#/documents/{{document.id}}"><i class="{{getFileIcon(document.url)}}"></i></a>
+				</div>
+				<div class="media-body">
+					<a href="#/documents/{{document.id}}" ><h4 class="media-heading">{{document.title}}</h4></a>
+					<p>{{document.url}}</p>
+					
+				</div>
+				<div class="media-right">
+					<a href="#/documents/{{document.id}}">{{document.datecreated}}</a>					
+				</div>
+			</div>
+			<hr/>
+		</div> 
+	</div>
+</div>
+
+
+
+  

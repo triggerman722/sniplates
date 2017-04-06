@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "chad",
+    "last": "elliott"
+  },
+  "location": {
+    "street": "4535 royal ln",
+    "city": "amarillo",
+    "state": "tennessee",
+    "postcode": 63035
+  },
+  "email": "chad.elliott@example.com",
+  "dob": "1944-09-28 20:44:30",
+  "phone": "(068)-291-4056",
+  "cell": "(145)-951-7087",
+  "id": "007-79-6383",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
+  }
+}

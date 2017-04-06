@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "roland",
+    "last": "ramos"
+  },
+  "location": {
+    "street": "8713 w 6th st",
+    "city": "stamford",
+    "state": "tennessee",
+    "postcode": 49654
+  },
+  "email": "roland.ramos@example.com",
+  "dob": "1956-02-20 03:47:01",
+  "phone": "(195)-258-1222",
+  "cell": "(006)-620-9558",
+  "id": "264-87-9245",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/70.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+  }
+}

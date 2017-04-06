@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "shawn",
+    "last": "ray"
+  },
+  "location": {
+    "street": "4043 preston rd",
+    "city": "bridgeport",
+    "state": "indiana",
+    "postcode": 51041
+  },
+  "email": "shawn.ray@example.com",
+  "dob": "1960-11-16 01:18:32",
+  "phone": "(643)-803-9732",
+  "cell": "(895)-263-7979",
+  "id": "108-25-9223",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/81.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+  }
+}

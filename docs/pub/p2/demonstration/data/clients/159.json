@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "monica",
+    "last": "palmer"
+  },
+  "location": {
+    "street": "2161 nowlin rd",
+    "city": "lewiston",
+    "state": "kentucky",
+    "postcode": 37917
+  },
+  "email": "monica.palmer@example.com",
+  "dob": "1983-07-01 04:00:34",
+  "phone": "(186)-244-6936",
+  "cell": "(524)-548-8666",
+  "id": "216-02-0338",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/20.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/20.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
+  }
+}

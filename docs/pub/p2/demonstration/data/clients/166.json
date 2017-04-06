@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "cassandra",
+    "last": "wells"
+  },
+  "location": {
+    "street": "4298 oak lawn ave",
+    "city": "augusta",
+    "state": "california",
+    "postcode": 40248
+  },
+  "email": "cassandra.wells@example.com",
+  "dob": "1991-04-16 04:48:52",
+  "phone": "(715)-681-7610",
+  "cell": "(500)-026-3367",
+  "id": "355-54-6738",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
+  }
+}

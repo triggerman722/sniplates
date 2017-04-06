@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "sean",
+    "last": "duncan"
+  },
+  "location": {
+    "street": "8396 w campbell ave",
+    "city": "clarksville",
+    "state": "alabama",
+    "postcode": 23630
+  },
+  "email": "sean.duncan@example.com",
+  "dob": "1957-08-23 21:27:38",
+  "phone": "(573)-996-5236",
+  "cell": "(546)-361-5204",
+  "id": "195-87-7004",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/33.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+  }
+}

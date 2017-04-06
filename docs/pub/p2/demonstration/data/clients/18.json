@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "lois",
+    "last": "gutierrez"
+  },
+  "location": {
+    "street": "3232 james st",
+    "city": "nampa",
+    "state": "utah",
+    "postcode": 57243
+  },
+  "email": "lois.gutierrez@example.com",
+  "dob": "1990-08-07 14:59:50",
+  "phone": "(454)-923-0126",
+  "cell": "(542)-862-5363",
+  "id": "825-58-3344",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
+  }
+}

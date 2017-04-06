@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "jeff",
+    "last": "scott"
+  },
+  "location": {
+    "street": "6075 karen dr",
+    "city": "anchorage",
+    "state": "rhode island",
+    "postcode": 42771
+  },
+  "email": "jeff.scott@example.com",
+  "dob": "1961-07-22 20:38:04",
+  "phone": "(152)-848-0953",
+  "cell": "(742)-912-7880",
+  "id": "634-85-7706",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+  }
+}

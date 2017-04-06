@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "nelson",
+    "last": "scott"
+  },
+  "location": {
+    "street": "4998 thornridge cir",
+    "city": "providence",
+    "state": "north dakota",
+    "postcode": 21473
+  },
+  "email": "nelson.scott@example.com",
+  "dob": "1956-10-28 06:57:34",
+  "phone": "(270)-585-0640",
+  "cell": "(682)-046-0574",
+  "id": "672-01-3086",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/59.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "greg",
+    "last": "brooks"
+  },
+  "location": {
+    "street": "6703 w belt line rd",
+    "city": "anaheim",
+    "state": "oregon",
+    "postcode": 44503
+  },
+  "email": "greg.brooks@example.com",
+  "dob": "1987-10-27 04:42:09",
+  "phone": "(051)-832-6559",
+  "cell": "(873)-305-5834",
+  "id": "008-75-1107",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/70.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "daryl",
+    "last": "steeves "
+  },
+  "location": {
+    "street": "5772 nowlin rd",
+    "city": "stockton",
+    "state": "kansas",
+    "postcode": 20846
+  },
+  "email": "daryl.steeves@example.com",
+  "dob": "1979-09-08 12:08:54",
+  "phone": "(719)-284-4059",
+  "cell": "(122)-582-9952",
+  "id": "259-45-7574",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+  }
+}

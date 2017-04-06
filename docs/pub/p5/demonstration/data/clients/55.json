@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "rosa",
+    "last": "gutierrez"
+  },
+  "location": {
+    "street": "4541 walnut hill ln",
+    "city": "augusta",
+    "state": "nevada",
+    "postcode": 65301
+  },
+  "email": "rosa.gutierrez@example.com",
+  "dob": "1973-03-19 03:55:04",
+  "phone": "(559)-578-1223",
+  "cell": "(075)-365-9027",
+  "id": "998-32-2025",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/24.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/24.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
+  }
+}

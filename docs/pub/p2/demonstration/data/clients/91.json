@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "gail",
+    "last": "may"
+  },
+  "location": {
+    "street": "7619 frances ct",
+    "city": "honolulu",
+    "state": "new york",
+    "postcode": 17784
+  },
+  "email": "gail.may@example.com",
+  "dob": "1975-04-26 09:50:37",
+  "phone": "(297)-079-6108",
+  "cell": "(819)-481-1201",
+  "id": "191-31-2968",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+  }
+}

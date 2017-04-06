@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "vera",
+    "last": "hanson"
+  },
+  "location": {
+    "street": "8884 forest ln",
+    "city": "great falls",
+    "state": "indiana",
+    "postcode": 49636
+  },
+  "email": "vera.hanson@example.com",
+  "dob": "1994-07-14 05:56:23",
+  "phone": "(528)-332-6380",
+  "cell": "(096)-761-4306",
+  "id": "886-77-0111",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/14.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+  }
+}

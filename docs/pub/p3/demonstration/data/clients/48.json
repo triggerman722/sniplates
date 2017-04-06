@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "alfred",
+    "last": "simpson"
+  },
+  "location": {
+    "street": "8638 robinson rd",
+    "city": "concord",
+    "state": "maryland",
+    "postcode": 30969
+  },
+  "email": "alfred.simpson@example.com",
+  "dob": "1983-10-06 21:23:54",
+  "phone": "(213)-351-8505",
+  "cell": "(013)-396-8769",
+  "id": "929-08-7987",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/11.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+  }
+}

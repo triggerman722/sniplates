@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "jayden",
+    "last": "ray"
+  },
+  "location": {
+    "street": "3976 mcclellan rd",
+    "city": "baltimore",
+    "state": "kentucky",
+    "postcode": 96135
+  },
+  "email": "jayden.ray@example.com",
+  "dob": "1995-02-16 12:18:48",
+  "phone": "(211)-814-8878",
+  "cell": "(080)-345-1391",
+  "id": "018-71-2119",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+  }
+}

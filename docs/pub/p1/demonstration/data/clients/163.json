@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "hilda",
+    "last": "franklin"
+  },
+  "location": {
+    "street": "2708 preston rd",
+    "city": "pembroke pines",
+    "state": "florida",
+    "postcode": 16055
+  },
+  "email": "hilda.franklin@example.com",
+  "dob": "1993-05-01 18:38:22",
+  "phone": "(914)-634-2263",
+  "cell": "(692)-161-3061",
+  "id": "404-98-6453",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/25.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/25.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
+  }
+}

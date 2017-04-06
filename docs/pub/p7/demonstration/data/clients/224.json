@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "arlene",
+    "last": "mckinney"
+  },
+  "location": {
+    "street": "6461 lone wolf trail",
+    "city": "los lunas",
+    "state": "minnesota",
+    "postcode": 46627
+  },
+  "email": "arlene.mckinney@example.com",
+  "dob": "1952-02-19 09:51:48",
+  "phone": "(209)-038-9766",
+  "cell": "(914)-869-9563",
+  "id": "980-58-0398",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+  }
+}

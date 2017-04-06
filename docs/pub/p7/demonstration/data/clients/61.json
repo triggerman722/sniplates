@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "stephanie",
+    "last": "washington"
+  },
+  "location": {
+    "street": "5771 harrison ct",
+    "city": "indianapolis",
+    "state": "louisiana",
+    "postcode": 10284
+  },
+  "email": "stephanie.washington@example.com",
+  "dob": "1979-07-16 13:51:09",
+  "phone": "(643)-040-5676",
+  "cell": "(059)-646-8414",
+  "id": "735-69-7972",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/78.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
+  }
+}

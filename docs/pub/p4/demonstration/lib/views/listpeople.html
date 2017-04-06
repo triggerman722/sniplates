@@ -1,0 +1,38 @@
+<ol class="breadcrumb">
+	<li><a href="#/dashboard"><i class="fa fa-home"></i> Home</a></li>
+	<li class="active"><a href="#/clients"><i class="fa fa-users"></i> Clients</a></li>  
+</ol>
+
+<div class="row">
+	<div class="col-lg-8">
+		<h1>Clients ({{items.length}})</h1>    
+	</div>
+	<div class="col-lg-4">
+		<div class="input-group h1">
+			<span class="input-group-addon" id="sizing-addon2"><i class="fa fa-search"></i></span>
+			<input type="text" class="form-control" placeholder="Search" aria-describedby="sizing-addon2" ng-model="searchText">
+		</div>
+	</div>
+</div>
+<hr/>
+<div ng-repeat="client in items | filter:searchText" class="list-group">			
+	<div class="media">
+		<div class="media-left">
+			<a href="#/clients/{{$index}}"><img src="{{client.picture.large}}" alt="{{client.email}}" class="img-circle" /></a>
+		</div>
+		<div class="media-body">
+			<div class="col-md-8">
+				<a href="#/clients/{{$index}}" ><h3 class="media-heading text-capitalize">{{client.name.first}} {{client.name.last}}</h3></a>
+				<small>
+				<p class="text-muted"><i class="fa fa-envelope" aria-hidden="true"></i> {{client.email}}</p>
+				</small>
+			</div>
+			<div class="col-md-4">
+				<small>
+				<p class="text-muted"><i class="fa fa-phone" aria-hidden="true"></i> <a href="#/clients/{{$index}}">{{client.phone}}</a></p>			
+				</small>
+			</div>
+		</div>
+	</div>
+	<hr/>
+</div>	

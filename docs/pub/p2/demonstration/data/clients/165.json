@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "bertha",
+    "last": "kim"
+  },
+  "location": {
+    "street": "7198 wycliff ave",
+    "city": "louisville",
+    "state": "vermont",
+    "postcode": 85228
+  },
+  "email": "bertha.kim@example.com",
+  "dob": "1986-01-12 20:00:55",
+  "phone": "(240)-181-6811",
+  "cell": "(498)-608-3376",
+  "id": "274-74-9952",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/36.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+  }
+}

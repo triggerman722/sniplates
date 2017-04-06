@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "misty",
+    "last": "vargas"
+  },
+  "location": {
+    "street": "4712 brown terrace",
+    "city": "rochmond",
+    "state": "wisconsin",
+    "postcode": 98222
+  },
+  "email": "misty.vargas@example.com",
+  "dob": "1979-03-04 00:51:17",
+  "phone": "(677)-750-0302",
+  "cell": "(635)-491-1362",
+  "id": "502-34-2827",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+  }
+}

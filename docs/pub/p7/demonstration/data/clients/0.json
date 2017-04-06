@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "erika",
+    "last": "steward"
+  },
+  "location": {
+    "street": "8187 hickory creek dr",
+    "city": "santa ana",
+    "state": "north carolina",
+    "postcode": 40877
+  },
+  "email": "erika.steward@example.com",
+  "dob": "1951-08-21 15:52:02",
+  "phone": "(478)-624-2263",
+  "cell": "(228)-646-4223",
+  "id": "896-10-0301",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/39.jpg"
+  }
+}

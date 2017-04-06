@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "kristen",
+    "last": "neal"
+  },
+  "location": {
+    "street": "2850 edwards rd",
+    "city": "new orleans",
+    "state": "north dakota",
+    "postcode": 59581
+  },
+  "email": "kristen.neal@example.com",
+  "dob": "1954-10-11 16:06:10",
+  "phone": "(364)-305-2657",
+  "cell": "(413)-754-3276",
+  "id": "503-30-0412",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/64.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+  }
+}

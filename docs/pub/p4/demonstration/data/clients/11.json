@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "armando",
+    "last": "simmons"
+  },
+  "location": {
+    "street": "6488 parker rd",
+    "city": "wilmington",
+    "state": "maine",
+    "postcode": 42862
+  },
+  "email": "armando.simmons@example.com",
+  "dob": "1954-11-07 17:42:21",
+  "phone": "(261)-974-4261",
+  "cell": "(094)-933-6678",
+  "id": "556-80-4371",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/47.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "ralph",
+    "last": "davidson"
+  },
+  "location": {
+    "street": "9662 frances ct",
+    "city": "los angeles",
+    "state": "delaware",
+    "postcode": 30632
+  },
+  "email": "ralph.davidson@example.com",
+  "dob": "1973-07-28 15:17:13",
+  "phone": "(868)-924-4549",
+  "cell": "(203)-521-8743",
+  "id": "074-37-1963",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/17.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+  }
+}

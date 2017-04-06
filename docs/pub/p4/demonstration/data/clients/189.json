@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "rhonda",
+    "last": "rice"
+  },
+  "location": {
+    "street": "4032 bollinger rd",
+    "city": "billings",
+    "state": "alaska",
+    "postcode": 27264
+  },
+  "email": "rhonda.rice@example.com",
+  "dob": "1964-11-12 08:47:29",
+  "phone": "(574)-443-3699",
+  "cell": "(593)-529-1730",
+  "id": "601-68-0539",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+  }
+}

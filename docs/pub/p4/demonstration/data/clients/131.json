@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "nevaeh",
+    "last": "williams"
+  },
+  "location": {
+    "street": "6910 blossom hill rd",
+    "city": "green bay",
+    "state": "mississippi",
+    "postcode": 67348
+  },
+  "email": "nevaeh.williams@example.com",
+  "dob": "1970-09-09 10:40:06",
+  "phone": "(865)-752-3180",
+  "cell": "(652)-874-3314",
+  "id": "704-93-2679",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/72.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
+  }
+}

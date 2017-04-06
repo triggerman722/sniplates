@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "megan",
+    "last": "miles"
+  },
+  "location": {
+    "street": "2655 miller ave",
+    "city": "allentown",
+    "state": "south carolina",
+    "postcode": 16163
+  },
+  "email": "megan.miles@example.com",
+  "dob": "1975-10-27 10:10:47",
+  "phone": "(392)-491-7807",
+  "cell": "(879)-313-8464",
+  "id": "028-30-8116",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/76.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+  }
+}

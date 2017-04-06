@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "katherine",
+    "last": "simpson"
+  },
+  "location": {
+    "street": "2201 bruce st",
+    "city": "boston",
+    "state": "iowa",
+    "postcode": 76794
+  },
+  "email": "katherine.simpson@example.com",
+  "dob": "1989-02-15 19:51:39",
+  "phone": "(511)-105-7780",
+  "cell": "(870)-036-4024",
+  "id": "042-33-5377",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+  }
+}

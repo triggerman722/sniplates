@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "bernice",
+    "last": "davidson"
+  },
+  "location": {
+    "street": "8063 eason rd",
+    "city": "sacramento",
+    "state": "pennsylvania",
+    "postcode": 62205
+  },
+  "email": "bernice.davidson@example.com",
+  "dob": "1955-06-15 17:16:28",
+  "phone": "(786)-570-0059",
+  "cell": "(447)-298-3111",
+  "id": "527-32-5014",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+  }
+}

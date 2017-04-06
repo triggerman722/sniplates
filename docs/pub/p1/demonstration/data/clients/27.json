@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "lucille",
+    "last": "holmes"
+  },
+  "location": {
+    "street": "3394 hamilton ave",
+    "city": "north las vegas",
+    "state": "kansas",
+    "postcode": 64343
+  },
+  "email": "lucille.holmes@example.com",
+  "dob": "1994-11-11 22:34:32",
+  "phone": "(606)-980-8316",
+  "cell": "(753)-705-8225",
+  "id": "836-86-6215",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+  }
+}

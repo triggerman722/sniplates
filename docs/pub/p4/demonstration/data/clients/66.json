@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "christine",
+    "last": "gonzales"
+  },
+  "location": {
+    "street": "3409 cackson st",
+    "city": "miami gardens",
+    "state": "idaho",
+    "postcode": 32670
+  },
+  "email": "christine.gonzales@example.com",
+  "dob": "1990-02-28 12:15:32",
+  "phone": "(586)-266-3172",
+  "cell": "(205)-488-0721",
+  "id": "487-35-7363",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+  }
+}

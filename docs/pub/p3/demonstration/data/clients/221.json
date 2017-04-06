@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "maureen",
+    "last": "hoffman"
+  },
+  "location": {
+    "street": "1797 spring st",
+    "city": "chicago",
+    "state": "new mexico",
+    "postcode": 59373
+  },
+  "email": "maureen.hoffman@example.com",
+  "dob": "1979-09-03 17:58:15",
+  "phone": "(725)-931-5576",
+  "cell": "(313)-749-0429",
+  "id": "995-72-8538",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/48.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+  }
+}

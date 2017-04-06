@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "louella",
+    "last": "flores"
+  },
+  "location": {
+    "street": "6967 e little york rd",
+    "city": "milwaukee",
+    "state": "washington",
+    "postcode": 86263
+  },
+  "email": "louella.flores@example.com",
+  "dob": "1954-07-15 18:20:45",
+  "phone": "(864)-506-3434",
+  "cell": "(340)-638-2700",
+  "id": "554-65-8827",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+  }
+}

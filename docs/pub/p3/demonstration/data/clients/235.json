@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "ella",
+    "last": "griffin"
+  },
+  "location": {
+    "street": "8047 pockrus page rd",
+    "city": "seymour",
+    "state": "arizona",
+    "postcode": 48121
+  },
+  "email": "ella.griffin@example.com",
+  "dob": "1954-11-09 16:34:25",
+  "phone": "(483)-677-9563",
+  "cell": "(616)-588-4421",
+  "id": "885-28-5361",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/45.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/45.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/45.jpg"
+  }
+}

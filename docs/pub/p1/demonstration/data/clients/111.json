@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "arron",
+    "last": "gardner"
+  },
+  "location": {
+    "street": "5717 karen dr",
+    "city": "cleveland",
+    "state": "kansas",
+    "postcode": 58528
+  },
+  "email": "arron.gardner@example.com",
+  "dob": "1978-01-31 04:02:57",
+  "phone": "(809)-783-3298",
+  "cell": "(543)-037-1358",
+  "id": "009-79-9023",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/90.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+  }
+}

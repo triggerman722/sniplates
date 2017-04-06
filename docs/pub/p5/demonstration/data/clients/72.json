@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "clifford",
+    "last": "vargas"
+  },
+  "location": {
+    "street": "4044 elgin st",
+    "city": "reno",
+    "state": "indiana",
+    "postcode": 27378
+  },
+  "email": "clifford.vargas@example.com",
+  "dob": "1985-05-30 10:45:11",
+  "phone": "(131)-521-9106",
+  "cell": "(059)-514-7748",
+  "id": "127-17-9704",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/36.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+  }
+}

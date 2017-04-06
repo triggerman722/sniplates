@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "kitty",
+    "last": "king"
+  },
+  "location": {
+    "street": "8845 hunters creek dr",
+    "city": "the colony",
+    "state": "north carolina",
+    "postcode": 32887
+  },
+  "email": "kitty.king@example.com",
+  "dob": "1953-10-24 09:15:20",
+  "phone": "(745)-372-8873",
+  "cell": "(881)-252-7048",
+  "id": "429-59-3559",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/60.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/60.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/60.jpg"
+  }
+}

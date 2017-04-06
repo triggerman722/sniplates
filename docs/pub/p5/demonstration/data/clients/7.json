@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "beatrice",
+    "last": "cunningham"
+  },
+  "location": {
+    "street": "7866 james st",
+    "city": "utica",
+    "state": "new jersey",
+    "postcode": 20779
+  },
+  "email": "beatrice.cunningham@example.com",
+  "dob": "1955-03-23 19:44:29",
+  "phone": "(265)-156-6371",
+  "cell": "(886)-759-0950",
+  "id": "738-40-3153",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/39.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "marion",
+    "last": "king"
+  },
+  "location": {
+    "street": "8992 nowlin rd",
+    "city": "norfolk",
+    "state": "delaware",
+    "postcode": 86031
+  },
+  "email": "marion.king@example.com",
+  "dob": "1975-07-07 21:29:28",
+  "phone": "(563)-548-7009",
+  "cell": "(390)-146-7809",
+  "id": "260-87-1630",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/72.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+  }
+}

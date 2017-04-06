@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "lucas",
+    "last": "henderson"
+  },
+  "location": {
+    "street": "7919 forest ln",
+    "city": "palm bay",
+    "state": "new jersey",
+    "postcode": 43483
+  },
+  "email": "lucas.henderson@example.com",
+  "dob": "1949-12-09 19:37:24",
+  "phone": "(308)-731-1180",
+  "cell": "(045)-461-0866",
+  "id": "053-40-1569",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/10.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+  }
+}

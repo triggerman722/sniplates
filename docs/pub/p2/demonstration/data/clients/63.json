@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "roger",
+    "last": "rogers"
+  },
+  "location": {
+    "street": "4351 miller ave",
+    "city": "yakima",
+    "state": "new york",
+    "postcode": 77446
+  },
+  "email": "roger.rogers@example.com",
+  "dob": "1948-12-29 09:02:53",
+  "phone": "(829)-627-1885",
+  "cell": "(358)-772-9702",
+  "id": "954-79-2936",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+  }
+}

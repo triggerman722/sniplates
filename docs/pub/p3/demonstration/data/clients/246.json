@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "pat",
+    "last": "henderson"
+  },
+  "location": {
+    "street": "8562 preston rd",
+    "city": "utica",
+    "state": "virginia",
+    "postcode": 55090
+  },
+  "email": "pat.henderson@example.com",
+  "dob": "1954-08-16 16:03:42",
+  "phone": "(640)-118-9872",
+  "cell": "(491)-546-9047",
+  "id": "378-08-5724",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+  }
+}

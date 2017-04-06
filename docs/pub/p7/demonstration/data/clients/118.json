@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "danielle",
+    "last": "reyes"
+  },
+  "location": {
+    "street": "9291 e pecan st",
+    "city": "scurry",
+    "state": "kansas",
+    "postcode": 49994
+  },
+  "email": "danielle.reyes@example.com",
+  "dob": "1958-08-13 17:50:06",
+  "phone": "(183)-712-9597",
+  "cell": "(591)-951-5914",
+  "id": "586-22-8181",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "allison",
+    "last": "grant"
+  },
+  "location": {
+    "street": "2746 dogwood ave",
+    "city": "providence",
+    "state": "vermont",
+    "postcode": 19487
+  },
+  "email": "allison.grant@example.com",
+  "dob": "1980-07-10 03:04:57",
+  "phone": "(560)-323-9775",
+  "cell": "(546)-730-7995",
+  "id": "426-57-7034",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/82.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+  }
+}

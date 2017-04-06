@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "tanya",
+    "last": "wilson"
+  },
+  "location": {
+    "street": "2234 w pecan st",
+    "city": "cary",
+    "state": "maine",
+    "postcode": 48406
+  },
+  "email": "tanya.wilson@example.com",
+  "dob": "1990-06-07 08:06:58",
+  "phone": "(433)-679-8958",
+  "cell": "(900)-306-0142",
+  "id": "678-87-8011",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/50.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
+  }
+}

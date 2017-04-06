@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "florence",
+    "last": "white"
+  },
+  "location": {
+    "street": "4554 e north st",
+    "city": "west covina",
+    "state": "alabama",
+    "postcode": 32536
+  },
+  "email": "florence.white@example.com",
+  "dob": "1955-08-02 08:26:00",
+  "phone": "(233)-368-5497",
+  "cell": "(454)-735-7514",
+  "id": "278-94-5994",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/22.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+  }
+}

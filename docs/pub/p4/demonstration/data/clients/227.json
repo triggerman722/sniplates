@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "roy",
+    "last": "simpson"
+  },
+  "location": {
+    "street": "6010 frances ct",
+    "city": "palmdale",
+    "state": "idaho",
+    "postcode": 94573
+  },
+  "email": "roy.simpson@example.com",
+  "dob": "1989-03-02 08:16:54",
+  "phone": "(139)-580-8950",
+  "cell": "(647)-804-4177",
+  "id": "789-88-8888",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/87.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+  }
+}

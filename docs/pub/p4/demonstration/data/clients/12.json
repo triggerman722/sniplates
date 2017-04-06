@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "melanie",
+    "last": "garza"
+  },
+  "location": {
+    "street": "8476 saddle dr",
+    "city": "rio rancho",
+    "state": "north dakota",
+    "postcode": 64990
+  },
+  "email": "melanie.garza@example.com",
+  "dob": "1983-07-29 05:05:32",
+  "phone": "(450)-371-0484",
+  "cell": "(152)-919-6748",
+  "id": "904-83-1231",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+  }
+}

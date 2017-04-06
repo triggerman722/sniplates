@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "lisa",
+    "last": "davis"
+  },
+  "location": {
+    "street": "3146 wycliff ave",
+    "city": "pomona",
+    "state": "mississippi",
+    "postcode": 97580
+  },
+  "email": "lisa.davis@example.com",
+  "dob": "1985-09-11 07:35:20",
+  "phone": "(672)-165-1876",
+  "cell": "(450)-240-9441",
+  "id": "589-58-9719",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/1.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+  }
+}

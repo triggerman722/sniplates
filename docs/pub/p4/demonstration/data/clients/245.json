@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "pauline",
+    "last": "holland"
+  },
+  "location": {
+    "street": "3629 college st",
+    "city": "indianapolis",
+    "state": "missouri",
+    "postcode": 15951
+  },
+  "email": "pauline.holland@example.com",
+  "dob": "1983-05-03 14:03:51",
+  "phone": "(125)-082-3209",
+  "cell": "(523)-170-3328",
+  "id": "293-56-8880",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/42.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
+  }
+}

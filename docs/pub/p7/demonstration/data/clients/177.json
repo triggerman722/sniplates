@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "anne",
+    "last": "burke"
+  },
+  "location": {
+    "street": "7707 bruce st",
+    "city": "the colony",
+    "state": "new york",
+    "postcode": 68638
+  },
+  "email": "anne.burke@example.com",
+  "dob": "1977-05-01 01:32:45",
+  "phone": "(543)-461-6354",
+  "cell": "(872)-884-1741",
+  "id": "353-91-2748",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/22.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+  }
+}

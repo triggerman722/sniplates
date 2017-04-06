@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "robert",
+    "last": "watts"
+  },
+  "location": {
+    "street": "1258 woodland st",
+    "city": "ann arbor",
+    "state": "connecticut",
+    "postcode": 81379
+  },
+  "email": "robert.watts@example.com",
+  "dob": "1950-06-15 16:17:21",
+  "phone": "(559)-271-1456",
+  "cell": "(302)-343-7313",
+  "id": "912-50-1800",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/29.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "max",
+    "last": "thomas"
+  },
+  "location": {
+    "street": "2545 locust rd",
+    "city": "charlotte",
+    "state": "oregon",
+    "postcode": 49655
+  },
+  "email": "max.thomas@example.com",
+  "dob": "1971-11-19 22:14:55",
+  "phone": "(602)-431-2905",
+  "cell": "(161)-638-5979",
+  "id": "100-90-0470",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+  }
+}

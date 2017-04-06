@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "leah",
+    "last": "daniels"
+  },
+  "location": {
+    "street": "4786 fincher rd",
+    "city": "north las vegas",
+    "state": "colorado",
+    "postcode": 45633
+  },
+  "email": "leah.daniels@example.com",
+  "dob": "1966-06-11 01:27:11",
+  "phone": "(529)-245-8371",
+  "cell": "(270)-340-9046",
+  "id": "084-53-7322",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/14.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+  }
+}

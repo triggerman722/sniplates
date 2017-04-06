@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "willie",
+    "last": "gregory"
+  },
+  "location": {
+    "street": "4156 daisy dr",
+    "city": "abilene",
+    "state": "montana",
+    "postcode": 31228
+  },
+  "email": "willie.gregory@example.com",
+  "dob": "1970-10-02 21:11:54",
+  "phone": "(918)-809-9358",
+  "cell": "(912)-652-0751",
+  "id": "751-74-2380",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+  }
+}

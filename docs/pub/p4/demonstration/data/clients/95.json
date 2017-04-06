@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "candice",
+    "last": "warren"
+  },
+  "location": {
+    "street": "1054 wycliff ave",
+    "city": "mcallen",
+    "state": "arizona",
+    "postcode": 12825
+  },
+  "email": "candice.warren@example.com",
+  "dob": "1951-04-08 07:23:46",
+  "phone": "(086)-294-6443",
+  "cell": "(390)-206-0964",
+  "id": "548-09-6200",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/50.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
+  }
+}

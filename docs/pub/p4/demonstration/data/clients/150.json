@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "donald",
+    "last": "banks"
+  },
+  "location": {
+    "street": "7866 fincher rd",
+    "city": "palmdale",
+    "state": "texas",
+    "postcode": 58198
+  },
+  "email": "donald.banks@example.com",
+  "dob": "1962-06-30 15:20:52",
+  "phone": "(259)-994-0987",
+  "cell": "(698)-925-8463",
+  "id": "884-96-1195",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/64.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+  }
+}

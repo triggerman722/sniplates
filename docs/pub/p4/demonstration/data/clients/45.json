@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "beth",
+    "last": "gibson"
+  },
+  "location": {
+    "street": "7914 photinia ave",
+    "city": "warren",
+    "state": "washington",
+    "postcode": 75002
+  },
+  "email": "beth.gibson@example.com",
+  "dob": "1949-12-18 21:02:36",
+  "phone": "(471)-345-3927",
+  "cell": "(128)-992-4579",
+  "id": "664-62-3289",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/66.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+  }
+}

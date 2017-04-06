@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "oscar",
+    "last": "jordan"
+  },
+  "location": {
+    "street": "7827 shady ln dr",
+    "city": "farmers branch",
+    "state": "vermont",
+    "postcode": 17899
+  },
+  "email": "oscar.jordan@example.com",
+  "dob": "1995-01-15 13:37:26",
+  "phone": "(197)-284-3417",
+  "cell": "(437)-100-7350",
+  "id": "065-69-8914",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/69.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
+  }
+}

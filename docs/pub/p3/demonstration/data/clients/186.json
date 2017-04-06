@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "debra",
+    "last": "mendoza"
+  },
+  "location": {
+    "street": "7733 paddock way",
+    "city": "gilbert",
+    "state": "colorado",
+    "postcode": 73126
+  },
+  "email": "debra.mendoza@example.com",
+  "dob": "1966-07-17 04:59:48",
+  "phone": "(867)-800-5642",
+  "cell": "(222)-041-6825",
+  "id": "397-82-1424",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
+  }
+}

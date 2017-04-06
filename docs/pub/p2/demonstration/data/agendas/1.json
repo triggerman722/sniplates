@@ -1,0 +1,15 @@
+{
+  "title": "Meet with Larry",
+  "products": [
+    {
+      "productTitle": "Alphabets",
+      "productDescription": "Available in 500g, 20 lbs",
+      "smallImage": "alphabets_small",
+      "largeImage": "alphabets_large"
+    },
+    {
+      "productTitle": "cereal",
+      "productDescription": "corn flakes"
+    }
+  ]
+}

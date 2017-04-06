@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "dustin",
+    "last": "meyer"
+  },
+  "location": {
+    "street": "3672 woodland st",
+    "city": "santa clarita",
+    "state": "louisiana",
+    "postcode": 97542
+  },
+  "email": "dustin.meyer@example.com",
+  "dob": "1953-05-27 01:56:29",
+  "phone": "(425)-113-5086",
+  "cell": "(446)-163-3110",
+  "id": "221-22-5118",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+  }
+}

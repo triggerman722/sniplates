@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "isaac",
+    "last": "fletcher"
+  },
+  "location": {
+    "street": "7571 e little york rd",
+    "city": "fontana",
+    "state": "missouri",
+    "postcode": 38616
+  },
+  "email": "isaac.fletcher@example.com",
+  "dob": "1993-04-01 16:20:44",
+  "phone": "(644)-343-3208",
+  "cell": "(605)-946-8014",
+  "id": "330-76-8525",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/37.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+  }
+}

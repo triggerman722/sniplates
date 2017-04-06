@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "sharlene",
+    "last": "jordan"
+  },
+  "location": {
+    "street": "2863 valley view ln",
+    "city": "forney",
+    "state": "delaware",
+    "postcode": 93298
+  },
+  "email": "sharlene.jordan@example.com",
+  "dob": "1993-04-22 21:38:34",
+  "phone": "(736)-314-8720",
+  "cell": "(782)-749-0252",
+  "id": "098-09-7857",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/88.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+  }
+}

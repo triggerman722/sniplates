@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "landon",
+    "last": "rodriquez"
+  },
+  "location": {
+    "street": "6245 wycliff ave",
+    "city": "fayetteville",
+    "state": "massachusetts",
+    "postcode": 10337
+  },
+  "email": "landon.rodriquez@example.com",
+  "dob": "1958-09-19 04:48:45",
+  "phone": "(795)-689-2891",
+  "cell": "(645)-155-5505",
+  "id": "290-81-6895",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+  }
+}

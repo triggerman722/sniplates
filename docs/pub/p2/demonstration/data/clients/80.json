@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "misty",
+    "last": "lawson"
+  },
+  "location": {
+    "street": "1728 homestead rd",
+    "city": "lansing",
+    "state": "west virginia",
+    "postcode": 17822
+  },
+  "email": "misty.lawson@example.com",
+  "dob": "1977-02-21 11:12:36",
+  "phone": "(883)-499-0840",
+  "cell": "(692)-103-8981",
+  "id": "347-26-5638",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/7.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/7.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/7.jpg"
+  }
+}

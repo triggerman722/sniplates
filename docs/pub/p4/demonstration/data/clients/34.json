@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "natalie",
+    "last": "peterson"
+  },
+  "location": {
+    "street": "6029 samaritan dr",
+    "city": "nashville",
+    "state": "alaska",
+    "postcode": 28874
+  },
+  "email": "natalie.peterson@example.com",
+  "dob": "1994-11-18 20:27:35",
+  "phone": "(681)-376-6989",
+  "cell": "(777)-060-6814",
+  "id": "556-84-5508",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/48.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "margie",
+    "last": "lynch"
+  },
+  "location": {
+    "street": "2360 parker rd",
+    "city": "fremont",
+    "state": "new york",
+    "postcode": 60252
+  },
+  "email": "margie.lynch@example.com",
+  "dob": "1972-12-19 08:58:09",
+  "phone": "(251)-912-0593",
+  "cell": "(143)-457-2987",
+  "id": "281-83-3029",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/40.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/40.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
+  }
+}

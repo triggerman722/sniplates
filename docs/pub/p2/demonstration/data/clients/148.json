@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "carl",
+    "last": "white"
+  },
+  "location": {
+    "street": "3820 elgin st",
+    "city": "medford",
+    "state": "colorado",
+    "postcode": 68273
+  },
+  "email": "carl.white@example.com",
+  "dob": "1950-04-13 15:35:43",
+  "phone": "(774)-437-2798",
+  "cell": "(310)-176-9529",
+  "id": "002-62-5484",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "julie",
+    "last": "hill"
+  },
+  "location": {
+    "street": "1010 westheimer rd",
+    "city": "hollywood",
+    "state": "colorado",
+    "postcode": 11838
+  },
+  "email": "julie.hill@example.com",
+  "dob": "1956-09-21 18:11:47",
+  "phone": "(504)-326-0652",
+  "cell": "(454)-100-3688",
+  "id": "940-51-3261",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/6.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+  }
+}

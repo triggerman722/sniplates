@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "julia",
+    "last": "spencer"
+  },
+  "location": {
+    "street": "8564 shady ln dr",
+    "city": "roseville",
+    "state": "arizona",
+    "postcode": 89778
+  },
+  "email": "julia.spencer@example.com",
+  "dob": "1950-01-27 03:46:39",
+  "phone": "(974)-898-2544",
+  "cell": "(951)-878-9110",
+  "id": "155-30-5563",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/16.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+  }
+}

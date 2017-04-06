@@ -1,0 +1,6 @@
+[{"id":"0","title":"the people vs. larry king", "clients":[{"id":"0"},{"id":"1"},{"id":"2"}], "documents":[{"id":"1"},{"id":"4"},{"id":"5"}]},
+{"id":"1","title":"Greg\"s Case","clients":[{"id":"3"},{"id":"4"},{"id":"5"}], "documents":[{"id":"8"},{"id":"9"},{"id":"6"}]},
+{"id":"2","title":"Submission","clients":[{"id":"6"},{"id":"7"},{"id":"8"}], "documents":[{"id":"1"},{"id":"4"},{"id":"5"}]},
+{"id":"3","title":"Georges trial", "clients":[{"id":"9"},{"id":"10"},{"id":"11"}], "documents":[{"id":"1"},{"id":"4"},{"id":"5"}]},
+{"id":"6","title":"fender bender", "clients":[{"id":"120"},{"id":"122"},{"id":"140"}], "documents":[{"id":"1"},{"id":"4"},{"id":"3"}]},
+{"id":"7","title":"Case file for larry", "clients":[{"id":"150"},{"id":"160"},{"id":"170"}], "documents":[{"id":"1"},{"id":"4"}]}]

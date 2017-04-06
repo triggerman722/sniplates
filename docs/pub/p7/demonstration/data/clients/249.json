@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "lucy",
+    "last": "larson"
+  },
+  "location": {
+    "street": "4636 daisy dr",
+    "city": "eugene",
+    "state": "west virginia",
+    "postcode": 18034
+  },
+  "email": "lucy.larson@example.com",
+  "dob": "1981-02-09 05:40:31",
+  "phone": "(247)-645-9978",
+  "cell": "(180)-976-8800",
+  "id": "329-76-2694",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/33.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/33.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
+  }
+}

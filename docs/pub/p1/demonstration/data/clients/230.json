@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "alyssa",
+    "last": "davidson"
+  },
+  "location": {
+    "street": "7019 hamilton ave",
+    "city": "waco",
+    "state": "massachusetts",
+    "postcode": 36513
+  },
+  "email": "alyssa.davidson@example.com",
+  "dob": "1952-07-18 04:49:38",
+  "phone": "(565)-971-6464",
+  "cell": "(026)-513-1946",
+  "id": "760-50-8151",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+  }
+}

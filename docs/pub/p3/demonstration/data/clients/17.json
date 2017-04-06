@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "lillie",
+    "last": "ray"
+  },
+  "location": {
+    "street": "9816 w campbell ave",
+    "city": "odessa",
+    "state": "florida",
+    "postcode": 48563
+  },
+  "email": "lillie.ray@example.com",
+  "dob": "1960-12-13 05:23:23",
+  "phone": "(758)-507-6801",
+  "cell": "(403)-362-8009",
+  "id": "756-89-0282",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+  }
+}

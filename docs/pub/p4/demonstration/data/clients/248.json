@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "bernard",
+    "last": "gonzales"
+  },
+  "location": {
+    "street": "1073 oak ridge ln",
+    "city": "laredo",
+    "state": "mississippi",
+    "postcode": 19007
+  },
+  "email": "bernard.gonzales@example.com",
+  "dob": "1962-08-11 06:31:25",
+  "phone": "(780)-989-7697",
+  "cell": "(728)-016-6957",
+  "id": "590-20-9622",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+  }
+}

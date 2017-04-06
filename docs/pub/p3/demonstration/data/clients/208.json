@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "juan",
+    "last": "ray"
+  },
+  "location": {
+    "street": "8857 paddock way",
+    "city": "arlington",
+    "state": "nebraska",
+    "postcode": 88163
+  },
+  "email": "juan.ray@example.com",
+  "dob": "1967-01-16 06:28:34",
+  "phone": "(009)-841-4904",
+  "cell": "(420)-525-0008",
+  "id": "406-58-5977",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+  }
+}

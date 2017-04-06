@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "ellen",
+    "last": "welch"
+  },
+  "location": {
+    "street": "6186 timber wolf trail",
+    "city": "high point",
+    "state": "nebraska",
+    "postcode": 48868
+  },
+  "email": "ellen.welch@example.com",
+  "dob": "1954-07-31 18:54:23",
+  "phone": "(838)-760-6280",
+  "cell": "(129)-957-7479",
+  "id": "527-35-4054",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/80.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+  }
+}

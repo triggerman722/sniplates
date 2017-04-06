@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "johnni",
+    "last": "ryan"
+  },
+  "location": {
+    "street": "8778 timber wolf trail",
+    "city": "princeton",
+    "state": "california",
+    "postcode": 60965
+  },
+  "email": "johnni.ryan@example.com",
+  "dob": "1968-12-24 13:05:48",
+  "phone": "(519)-628-7801",
+  "cell": "(128)-677-6062",
+  "id": "409-55-2173",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/6.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+  }
+}

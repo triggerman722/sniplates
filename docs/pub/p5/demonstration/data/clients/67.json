@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "michelle",
+    "last": "murphy"
+  },
+  "location": {
+    "street": "2148 taylor st",
+    "city": "odessa",
+    "state": "south dakota",
+    "postcode": 83800
+  },
+  "email": "michelle.murphy@example.com",
+  "dob": "1956-11-03 18:30:10",
+  "phone": "(055)-345-6629",
+  "cell": "(641)-582-9105",
+  "id": "766-04-9060",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
+  }
+}

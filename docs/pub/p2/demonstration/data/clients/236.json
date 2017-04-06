@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "eli",
+    "last": "ross"
+  },
+  "location": {
+    "street": "9459 central st",
+    "city": "akron",
+    "state": "new hampshire",
+    "postcode": 92980
+  },
+  "email": "eli.ross@example.com",
+  "dob": "1948-12-15 09:33:37",
+  "phone": "(409)-632-8300",
+  "cell": "(051)-170-3695",
+  "id": "062-31-6162",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "thomas",
+    "last": "taylor"
+  },
+  "location": {
+    "street": "6188 camden ave",
+    "city": "hayward",
+    "state": "alaska",
+    "postcode": 75189
+  },
+  "email": "thomas.taylor@example.com",
+  "dob": "1987-12-24 16:59:21",
+  "phone": "(871)-377-5968",
+  "cell": "(928)-100-0179",
+  "id": "590-35-5439",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+  }
+}

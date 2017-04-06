@@ -1,0 +1,21 @@
+ <ol class="breadcrumb">
+  <li><a href="#">Home</a></li>
+  <li><a href="#/clients">Clients</a></li>
+  <li class="active">{{item.name.first}} {{item.name.last}}</li>
+</ol>
+<div style="height:20em;">
+	<img src="data/img/ama.jpg" class="col-md-12">
+</div>
+<div style="height:10em">
+        <div class="col-md-2">
+		<a href="#" style=" margin-top: -70px; display: block; ">
+			<img class="rounded-circle img-thumbnail" src="{{item.picture.large}}" />
+		</a>
+	</div>
+	<div class="col-md-10">
+		<dl class="row">
+			<dt class="col-sm-3">Name</dt>
+			<dd class="col-sm-9">{{item.name.first}} {{item.name.last}}</dd>
+		</dl>
+	</div>
+    </div>

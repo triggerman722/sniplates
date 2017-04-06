@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "marsha",
+    "last": "garza"
+  },
+  "location": {
+    "street": "2901 spring st",
+    "city": "bueblo",
+    "state": "ohio",
+    "postcode": 30932
+  },
+  "email": "marsha.garza@example.com",
+  "dob": "1989-07-03 13:53:24",
+  "phone": "(729)-374-7366",
+  "cell": "(049)-193-3135",
+  "id": "952-66-7922",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+  }
+}

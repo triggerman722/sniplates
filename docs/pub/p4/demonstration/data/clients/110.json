@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "isobel",
+    "last": "ramirez"
+  },
+  "location": {
+    "street": "8112 w gray st",
+    "city": "cary",
+    "state": "wisconsin",
+    "postcode": 54537
+  },
+  "email": "isobel.ramirez@example.com",
+  "dob": "1977-08-10 06:14:40",
+  "phone": "(092)-476-1764",
+  "cell": "(172)-858-9276",
+  "id": "923-71-2424",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/17.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "abigail",
+    "last": "soto"
+  },
+  "location": {
+    "street": "8225 spring hill rd",
+    "city": "fort wayne",
+    "state": "massachusetts",
+    "postcode": 46786
+  },
+  "email": "abigail.soto@example.com",
+  "dob": "1985-04-22 16:27:41",
+  "phone": "(755)-192-6864",
+  "cell": "(320)-473-3978",
+  "id": "600-49-8484",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
+  }
+}

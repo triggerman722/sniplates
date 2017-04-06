@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "felix",
+    "last": "barnett"
+  },
+  "location": {
+    "street": "7821 northaven rd",
+    "city": "eureka",
+    "state": "idaho",
+    "postcode": 76748
+  },
+  "email": "felix.barnett@example.com",
+  "dob": "1965-04-19 04:10:18",
+  "phone": "(879)-722-6319",
+  "cell": "(174)-448-2573",
+  "id": "483-95-4869",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+  }
+}

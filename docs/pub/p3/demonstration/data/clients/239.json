@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "derrick",
+    "last": "fernandez"
+  },
+  "location": {
+    "street": "1007 lakeshore rd",
+    "city": "princeton",
+    "state": "arkansas",
+    "postcode": 92382
+  },
+  "email": "derrick.fernandez@example.com",
+  "dob": "1957-11-01 10:38:19",
+  "phone": "(328)-386-5148",
+  "cell": "(941)-238-8390",
+  "id": "359-07-2766",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/14.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
+  }
+}

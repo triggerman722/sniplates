@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "jonathan",
+    "last": "webb"
+  },
+  "location": {
+    "street": "8340 valley view ln",
+    "city": "indianapolis",
+    "state": "wyoming",
+    "postcode": 75052
+  },
+  "email": "jonathan.webb@example.com",
+  "dob": "1968-12-15 21:35:20",
+  "phone": "(479)-577-7874",
+  "cell": "(042)-035-4194",
+  "id": "743-19-9073",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/20.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+  }
+}

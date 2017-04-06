@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "tiffany",
+    "last": "kelley"
+  },
+  "location": {
+    "street": "7852 college st",
+    "city": "fort collins",
+    "state": "idaho",
+    "postcode": 54685
+  },
+  "email": "tiffany.kelley@example.com",
+  "dob": "1983-12-19 15:55:34",
+  "phone": "(445)-188-2241",
+  "cell": "(426)-258-4513",
+  "id": "310-83-9759",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+  }
+}

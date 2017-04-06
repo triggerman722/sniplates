@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "phillip",
+    "last": "shelton"
+  },
+  "location": {
+    "street": "7922 dane st",
+    "city": "dallas",
+    "state": "nevada",
+    "postcode": 71403
+  },
+  "email": "phillip.shelton@example.com",
+  "dob": "1985-11-01 16:48:32",
+  "phone": "(672)-272-7523",
+  "cell": "(718)-430-8427",
+  "id": "427-72-6132",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/45.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+  }
+}

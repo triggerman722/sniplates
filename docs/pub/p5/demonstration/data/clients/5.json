@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "janet",
+    "last": "herrera"
+  },
+  "location": {
+    "street": "9474 w campbell ave",
+    "city": "hartford",
+    "state": "idaho",
+    "postcode": 21646
+  },
+  "email": "janet.herrera@example.com",
+  "dob": "1966-02-13 12:27:47",
+  "phone": "(902)-350-7894",
+  "cell": "(271)-291-2575",
+  "id": "875-39-9051",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+  }
+}

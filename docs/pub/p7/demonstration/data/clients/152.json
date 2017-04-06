@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "edwin",
+    "last": "mitchelle"
+  },
+  "location": {
+    "street": "7193 parker rd",
+    "city": "rockford",
+    "state": "arizona",
+    "postcode": 80965
+  },
+  "email": "edwin.mitchelle@example.com",
+  "dob": "1992-03-30 10:18:28",
+  "phone": "(932)-182-8532",
+  "cell": "(309)-668-8974",
+  "id": "852-90-4108",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "ruben",
+    "last": "carpenter"
+  },
+  "location": {
+    "street": "5216 e pecan st",
+    "city": "gilbert",
+    "state": "maine",
+    "postcode": 85922
+  },
+  "email": "ruben.carpenter@example.com",
+  "dob": "1988-03-02 02:37:51",
+  "phone": "(030)-304-7019",
+  "cell": "(330)-745-2447",
+  "id": "751-95-8525",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/99.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+  }
+}

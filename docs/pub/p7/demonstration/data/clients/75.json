@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "rachel",
+    "last": "parker"
+  },
+  "location": {
+    "street": "5563 green rd",
+    "city": "worcester",
+    "state": "vermont",
+    "postcode": 37499
+  },
+  "email": "rachel.parker@example.com",
+  "dob": "1984-07-18 18:24:39",
+  "phone": "(230)-038-1458",
+  "cell": "(376)-613-9130",
+  "id": "529-66-1046",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+  }
+}

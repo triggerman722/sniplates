@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "april",
+    "last": "ruiz"
+  },
+  "location": {
+    "street": "5554 cackson st",
+    "city": "gainesville",
+    "state": "illinois",
+    "postcode": 18799
+  },
+  "email": "april.ruiz@example.com",
+  "dob": "1948-10-16 16:38:58",
+  "phone": "(464)-361-5798",
+  "cell": "(113)-808-5730",
+  "id": "481-14-5186",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+  }
+}

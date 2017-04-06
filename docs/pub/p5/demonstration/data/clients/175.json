@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "harvey",
+    "last": "shelton"
+  },
+  "location": {
+    "street": "3968 hogan st",
+    "city": "tallahassee",
+    "state": "maine",
+    "postcode": 28428
+  },
+  "email": "harvey.shelton@example.com",
+  "dob": "1959-09-25 23:19:12",
+  "phone": "(722)-454-9149",
+  "cell": "(699)-770-0367",
+  "id": "445-52-5268",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/19.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+  }
+}

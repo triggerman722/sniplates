@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "elmer",
+    "last": "hamilton"
+  },
+  "location": {
+    "street": "4662 walnut hill ln",
+    "city": "utica",
+    "state": "california",
+    "postcode": 52995
+  },
+  "email": "elmer.hamilton@example.com",
+  "dob": "1951-09-04 16:32:38",
+  "phone": "(727)-629-8563",
+  "cell": "(352)-678-5256",
+  "id": "458-99-4267",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
+  }
+}

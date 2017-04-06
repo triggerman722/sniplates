@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "wesley",
+    "last": "stewart"
+  },
+  "location": {
+    "street": "3852 blossom hill rd",
+    "city": "laredo",
+    "state": "nevada",
+    "postcode": 37574
+  },
+  "email": "wesley.stewart@example.com",
+  "dob": "1961-11-21 00:20:05",
+  "phone": "(062)-318-4931",
+  "cell": "(696)-186-2625",
+  "id": "979-59-5477",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/45.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+  }
+}

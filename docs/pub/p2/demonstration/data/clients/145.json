@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "ashley",
+    "last": "fox"
+  },
+  "location": {
+    "street": "6391 lovers ln",
+    "city": "san bernardino",
+    "state": "maine",
+    "postcode": 25461
+  },
+  "email": "ashley.fox@example.com",
+  "dob": "1983-09-18 11:42:36",
+  "phone": "(903)-895-6116",
+  "cell": "(815)-448-8730",
+  "id": "628-63-5438",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/87.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
+  }
+}

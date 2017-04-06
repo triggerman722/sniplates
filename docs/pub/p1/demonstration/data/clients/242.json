@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "paula",
+    "last": "mason"
+  },
+  "location": {
+    "street": "9528 adams st",
+    "city": "arlington",
+    "state": "iowa",
+    "postcode": 18735
+  },
+  "email": "paula.mason@example.com",
+  "dob": "1987-05-10 12:09:20",
+  "phone": "(333)-793-6411",
+  "cell": "(652)-427-8896",
+  "id": "730-55-0543",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/40.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/40.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
+  }
+}

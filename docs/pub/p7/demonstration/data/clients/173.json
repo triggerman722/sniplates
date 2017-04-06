@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "miguel",
+    "last": "king"
+  },
+  "location": {
+    "street": "5619 w gray st",
+    "city": "west palm beach",
+    "state": "connecticut",
+    "postcode": 16483
+  },
+  "email": "miguel.king@example.com",
+  "dob": "1961-02-17 11:16:07",
+  "phone": "(435)-863-6153",
+  "cell": "(360)-716-6575",
+  "id": "013-76-8264",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/51.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
+  }
+}

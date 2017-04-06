@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "edgar",
+    "last": "wright"
+  },
+  "location": {
+    "street": "1000 forest ln",
+    "city": "madison",
+    "state": "new jersey",
+    "postcode": 22449
+  },
+  "email": "edgar.wright@example.com",
+  "dob": "1957-04-04 08:19:05",
+  "phone": "(070)-854-6876",
+  "cell": "(801)-628-7323",
+  "id": "406-65-7381",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/95.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "joann",
+    "last": "mitchell"
+  },
+  "location": {
+    "street": "8979 first street",
+    "city": "charlotte",
+    "state": "nevada",
+    "postcode": 15902
+  },
+  "email": "joann.mitchell@example.com",
+  "dob": "1978-09-01 04:47:48",
+  "phone": "(196)-329-1649",
+  "cell": "(279)-060-0414",
+  "id": "771-30-3813",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/6.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+  }
+}

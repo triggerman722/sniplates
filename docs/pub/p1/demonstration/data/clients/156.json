@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "adam",
+    "last": "hopkins"
+  },
+  "location": {
+    "street": "4938 oak ridge ln",
+    "city": "san antonio",
+    "state": "georgia",
+    "postcode": 58806
+  },
+  "email": "adam.hopkins@example.com",
+  "dob": "1974-09-04 20:34:50",
+  "phone": "(773)-037-7217",
+  "cell": "(584)-730-1633",
+  "id": "717-17-4828",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+  }
+}

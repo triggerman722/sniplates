@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "ben",
+    "last": "carter"
+  },
+  "location": {
+    "street": "9566 w sherman dr",
+    "city": "honolulu",
+    "state": "nebraska",
+    "postcode": 10682
+  },
+  "email": "ben.carter@example.com",
+  "dob": "1990-03-27 04:52:42",
+  "phone": "(420)-182-9076",
+  "cell": "(133)-255-9127",
+  "id": "045-04-3603",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+  }
+}

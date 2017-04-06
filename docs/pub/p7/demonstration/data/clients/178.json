@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "jeff",
+    "last": "long"
+  },
+  "location": {
+    "street": "7206 w belt line rd",
+    "city": "st. petersburg",
+    "state": "utah",
+    "postcode": 59054
+  },
+  "email": "jeff.long@example.com",
+  "dob": "1973-04-02 06:14:33",
+  "phone": "(931)-583-6272",
+  "cell": "(452)-425-2637",
+  "id": "928-43-3305",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/33.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "gail",
+    "last": "hill"
+  },
+  "location": {
+    "street": "6710 thornridge cir",
+    "city": "lakewood",
+    "state": "minnesota",
+    "postcode": 10022
+  },
+  "email": "gail.hill@example.com",
+  "dob": "1952-06-04 21:05:37",
+  "phone": "(307)-454-5398",
+  "cell": "(024)-431-5730",
+  "id": "171-25-2838",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/66.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+  }
+}

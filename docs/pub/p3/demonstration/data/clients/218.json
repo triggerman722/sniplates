@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "ricky",
+    "last": "stephens"
+  },
+  "location": {
+    "street": "4624 e center st",
+    "city": "dayton",
+    "state": "south dakota",
+    "postcode": 67004
+  },
+  "email": "ricky.stephens@example.com",
+  "dob": "1958-02-12 12:04:18",
+  "phone": "(623)-027-6162",
+  "cell": "(923)-320-8490",
+  "id": "143-77-1511",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/17.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "johnny",
+    "last": "evans"
+  },
+  "location": {
+    "street": "3553 shady ln dr",
+    "city": "durham",
+    "state": "rhode island",
+    "postcode": 14625
+  },
+  "email": "johnny.evans@example.com",
+  "dob": "1978-02-19 21:00:02",
+  "phone": "(474)-795-6599",
+  "cell": "(007)-007-9242",
+  "id": "224-27-0264",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+  }
+}

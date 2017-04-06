@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "courtney",
+    "last": "burns"
+  },
+  "location": {
+    "street": "9026 college st",
+    "city": "portland",
+    "state": "alabama",
+    "postcode": 32504
+  },
+  "email": "courtney.burns@example.com",
+  "dob": "1947-04-08 22:55:42",
+  "phone": "(722)-001-9942",
+  "cell": "(564)-298-7391",
+  "id": "651-04-6289",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/24.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/24.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
+  }
+}

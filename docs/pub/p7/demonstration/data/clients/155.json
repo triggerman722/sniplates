@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "eugene",
+    "last": "willis"
+  },
+  "location": {
+    "street": "3847 hickory creek dr",
+    "city": "palm bay",
+    "state": "kentucky",
+    "postcode": 31625
+  },
+  "email": "eugene.willis@example.com",
+  "dob": "1947-12-24 02:42:34",
+  "phone": "(515)-835-9846",
+  "cell": "(568)-491-8402",
+  "id": "076-86-1710",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+  }
+}

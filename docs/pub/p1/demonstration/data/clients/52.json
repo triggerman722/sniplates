@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "alfred",
+    "last": "ruiz"
+  },
+  "location": {
+    "street": "9637 northaven rd",
+    "city": "santa ana",
+    "state": "tennessee",
+    "postcode": 79754
+  },
+  "email": "alfred.ruiz@example.com",
+  "dob": "1952-04-05 08:47:34",
+  "phone": "(823)-299-4152",
+  "cell": "(914)-202-9095",
+  "id": "428-80-1992",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/83.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+  }
+}

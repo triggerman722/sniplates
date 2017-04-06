@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "bernard",
+    "last": "simmons"
+  },
+  "location": {
+    "street": "9552 northaven rd",
+    "city": "west valley city",
+    "state": "maine",
+    "postcode": 56874
+  },
+  "email": "bernard.simmons@example.com",
+  "dob": "1983-09-22 21:57:57",
+  "phone": "(698)-335-9110",
+  "cell": "(227)-066-1734",
+  "id": "977-62-8628",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/37.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+  }
+}

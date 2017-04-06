@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "douglas",
+    "last": "alexander"
+  },
+  "location": {
+    "street": "1787 saddle dr",
+    "city": "syracuse",
+    "state": "washington",
+    "postcode": 84141
+  },
+  "email": "douglas.alexander@example.com",
+  "dob": "1993-04-29 16:25:24",
+  "phone": "(819)-186-9556",
+  "cell": "(606)-563-9837",
+  "id": "147-29-1239",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/63.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+  }
+}

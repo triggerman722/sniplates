@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "dolores",
+    "last": "ellis"
+  },
+  "location": {
+    "street": "5661 harrison ct",
+    "city": "san bernardino",
+    "state": "virginia",
+    "postcode": 83325
+  },
+  "email": "dolores.ellis@example.com",
+  "dob": "1949-08-01 23:02:03",
+  "phone": "(649)-614-9259",
+  "cell": "(236)-481-8812",
+  "id": "546-60-9115",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/58.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/58.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/58.jpg"
+  }
+}

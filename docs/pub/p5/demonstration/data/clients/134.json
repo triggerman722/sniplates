@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "victor",
+    "last": "hanson"
+  },
+  "location": {
+    "street": "8890 smokey ln",
+    "city": "beaumont",
+    "state": "virginia",
+    "postcode": 69530
+  },
+  "email": "victor.hanson@example.com",
+  "dob": "1962-10-11 10:58:55",
+  "phone": "(644)-289-7021",
+  "cell": "(124)-891-4007",
+  "id": "537-71-4583",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/58.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "diana",
+    "last": "stephens"
+  },
+  "location": {
+    "street": "8182 westheimer rd",
+    "city": "anaheim",
+    "state": "new hampshire",
+    "postcode": 83525
+  },
+  "email": "diana.stephens@example.com",
+  "dob": "1962-12-26 13:48:09",
+  "phone": "(224)-970-6195",
+  "cell": "(505)-234-0336",
+  "id": "686-45-3377",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/80.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+  }
+}

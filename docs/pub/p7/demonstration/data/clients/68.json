@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "levi",
+    "last": "romero"
+  },
+  "location": {
+    "street": "3525 ash dr",
+    "city": "kent",
+    "state": "georgia",
+    "postcode": 70844
+  },
+  "email": "levi.romero@example.com",
+  "dob": "1983-06-25 20:37:58",
+  "phone": "(280)-066-1667",
+  "cell": "(213)-546-7327",
+  "id": "201-82-3579",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/95.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+  }
+}

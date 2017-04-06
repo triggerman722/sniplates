@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "tracy",
+    "last": "parker"
+  },
+  "location": {
+    "street": "8832 blossom hill rd",
+    "city": "surrey",
+    "state": "michigan",
+    "postcode": 38155
+  },
+  "email": "tracy.parker@example.com",
+  "dob": "1985-11-30 01:48:51",
+  "phone": "(479)-193-0449",
+  "cell": "(207)-582-7660",
+  "id": "537-48-0788",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/1.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+  }
+}

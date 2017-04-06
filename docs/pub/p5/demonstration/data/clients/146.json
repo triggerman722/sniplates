@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "jeanne",
+    "last": "price"
+  },
+  "location": {
+    "street": "6143 w pecan st",
+    "city": "athens",
+    "state": "ohio",
+    "postcode": 29392
+  },
+  "email": "jeanne.price@example.com",
+  "dob": "1985-06-16 20:25:21",
+  "phone": "(307)-530-1817",
+  "cell": "(069)-629-3504",
+  "id": "413-10-3690",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/43.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+  }
+}

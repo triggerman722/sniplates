@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "jeanne",
+    "last": "carroll"
+  },
+  "location": {
+    "street": "3693 james st",
+    "city": "rialto",
+    "state": "wisconsin",
+    "postcode": 17367
+  },
+  "email": "jeanne.carroll@example.com",
+  "dob": "1958-07-24 05:43:03",
+  "phone": "(466)-147-9028",
+  "cell": "(260)-194-2828",
+  "id": "815-86-8539",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/51.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
+  }
+}

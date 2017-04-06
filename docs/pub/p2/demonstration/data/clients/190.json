@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "christian",
+    "last": "montgomery"
+  },
+  "location": {
+    "street": "9158 spring st",
+    "city": "salem",
+    "state": "georgia",
+    "postcode": 57547
+  },
+  "email": "christian.montgomery@example.com",
+  "dob": "1979-04-12 10:30:28",
+  "phone": "(259)-493-8638",
+  "cell": "(084)-911-7229",
+  "id": "552-21-2526",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/95.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+  }
+}

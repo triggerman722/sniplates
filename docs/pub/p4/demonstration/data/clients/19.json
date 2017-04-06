@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "olivia",
+    "last": "wood"
+  },
+  "location": {
+    "street": "6669 fincher rd",
+    "city": "el cajon",
+    "state": "kansas",
+    "postcode": 59279
+  },
+  "email": "olivia.wood@example.com",
+  "dob": "1973-11-22 19:51:36",
+  "phone": "(966)-534-1808",
+  "cell": "(805)-303-9817",
+  "id": "701-73-8689",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/47.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/47.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/47.jpg"
+  }
+}

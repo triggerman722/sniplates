@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "alexis",
+    "last": "stanley"
+  },
+  "location": {
+    "street": "3482 shady ln dr",
+    "city": "south valley",
+    "state": "montana",
+    "postcode": 90915
+  },
+  "email": "alexis.stanley@example.com",
+  "dob": "1990-01-07 03:03:57",
+  "phone": "(667)-435-2974",
+  "cell": "(474)-494-0519",
+  "id": "681-20-5104",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+  }
+}

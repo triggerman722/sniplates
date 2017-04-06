@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "miriam",
+    "last": "thomas"
+  },
+  "location": {
+    "street": "1365 spring st",
+    "city": "iowa park",
+    "state": "tennessee",
+    "postcode": 99181
+  },
+  "email": "miriam.thomas@example.com",
+  "dob": "1979-07-31 10:33:39",
+  "phone": "(134)-844-1143",
+  "cell": "(173)-896-0508",
+  "id": "983-02-7008",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
+  }
+}

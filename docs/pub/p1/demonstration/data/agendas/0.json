@@ -1,0 +1,17 @@
+{
+  "title": "Papers are due",
+  "products": [
+    {
+      "productTitle": "Diced Plum Tomatoes",
+      "productDescription": "Available in 796mL",
+      "smallImage": "diced_plum_tomatoes_small",
+      "largeImage": "diced_plum_tomatoes_large"
+    },
+    {
+      "productTitle": "Ground Plum Tomatoes",
+      "productDescription": "Available in 796mL",
+      "smallImage": "ground_plum_tomatoes_small",
+      "largeImage": "ground_plum_tomatoes_large"
+    }
+  ]
+}

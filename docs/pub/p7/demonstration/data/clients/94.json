@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "terry",
+    "last": "may"
+  },
+  "location": {
+    "street": "8226 dane st",
+    "city": "chesapeake",
+    "state": "colorado",
+    "postcode": 54497
+  },
+  "email": "terry.may@example.com",
+  "dob": "1966-05-16 03:57:17",
+  "phone": "(523)-202-6428",
+  "cell": "(096)-284-8977",
+  "id": "798-27-8652",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/1.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+  }
+}

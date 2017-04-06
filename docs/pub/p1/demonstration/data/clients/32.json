@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "jackson",
+    "last": "perry"
+  },
+  "location": {
+    "street": "3302 groveland terrace",
+    "city": "joliet",
+    "state": "idaho",
+    "postcode": 21029
+  },
+  "email": "jackson.perry@example.com",
+  "dob": "1972-10-15 20:45:42",
+  "phone": "(590)-533-3272",
+  "cell": "(222)-538-5272",
+  "id": "127-99-5357",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
+  }
+}

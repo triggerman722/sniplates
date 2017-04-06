@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "kathy",
+    "last": "bryant"
+  },
+  "location": {
+    "street": "1142 w 6th st",
+    "city": "milwaukee",
+    "state": "mississippi",
+    "postcode": 93162
+  },
+  "email": "kathy.bryant@example.com",
+  "dob": "1959-11-20 02:37:46",
+  "phone": "(314)-343-5464",
+  "cell": "(841)-222-0414",
+  "id": "598-54-1536",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+  }
+}

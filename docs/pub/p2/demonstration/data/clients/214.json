@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "kristin",
+    "last": "sullivan"
+  },
+  "location": {
+    "street": "6244 country club rd",
+    "city": "murrieta",
+    "state": "iowa",
+    "postcode": 96433
+  },
+  "email": "kristin.sullivan@example.com",
+  "dob": "1994-06-01 06:50:18",
+  "phone": "(971)-154-4738",
+  "cell": "(446)-032-7253",
+  "id": "268-81-5709",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+  }
+}

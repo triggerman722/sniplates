@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "sergio",
+    "last": "watson"
+  },
+  "location": {
+    "street": "9422 country club rd",
+    "city": "new orleans",
+    "state": "north carolina",
+    "postcode": 25578
+  },
+  "email": "sergio.watson@example.com",
+  "dob": "1947-08-25 10:12:54",
+  "phone": "(110)-644-5963",
+  "cell": "(475)-550-1843",
+  "id": "623-65-5715",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/22.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+  }
+}

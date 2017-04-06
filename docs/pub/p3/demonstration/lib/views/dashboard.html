@@ -1,0 +1,129 @@
+<ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="#">Home</a></li>
+  <li class="breadcrumb-item active"><a href="#/dashboard">Dashboard</a></li>
+</ol>
+ <h1 class="page-header">Dashboard</h1>
+ <div class="row">
+	<div class="col-md-3">
+		<div class="alert alert-danger">
+			<div class="media">
+				<div class="media-left">								
+					<i class="glyphicon glyphicon-folder-open" style="font-size:50px"></i>
+				</div>
+				<div class="media-body text-right">
+					<h1 class="media-heading">{{items[0].casecount}}</h1> New Cases
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<div class="alert alert-info">
+			<div class="media">
+				<div class="media-left media-middle">								
+					<i class="glyphicon glyphicon-duplicate" style="font-size:50px"></i>								
+				</div>
+				<div class="media-body text-right">
+					<h1 class="media-heading">{{items[0].documentcount}}</h1> New Documents
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<div class="alert alert-warning">
+			<div class="media">
+				<div class="media-left media-middle">
+					<i class="glyphicon glyphicon-calendar" style="font-size:50px"></i>								
+				</div>
+				<div class="media-body text-right">
+					<h1 class="media-heading">{{items[0].agendacount}}</h1> Court Dates
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<div class="alert alert-success">
+			<div class="media">
+				<div class="media-left media-middle">
+					<i class="glyphicon glyphicon-user" style="font-size:50px"></i>								
+				</div>
+				<div class="media-body text-right">								
+					<h1 class="media-heading">{{items[0].clientcount}}</h1> New Clients
+				</div>
+			</div>
+		</div>
+	</div>
+</div>	
+<div class="row">  
+	<div class="col-md-5">
+		<div class="panel panel-default">
+			<div class="panel-heading">Active cases by county (Alabama)</div>
+			<div class="panel-body">
+				<div class="clearfix"></div>
+				<div id="regions_div" ></div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-7">
+		<div class="panel panel-default">
+			<div class="panel-heading">Panel heading without title</div>
+			<div class="panel-body">
+				<div class="col-md-12">
+	   				 <div class="alert alert-danger">
+	   					 <div class="media">
+	   						 <div class="media-left media-middle">   							 
+	   							 <i class="glyphicon glyphicon-folder-open" style="font-size:50px"></i>
+	   						 </div>
+	   						 <div class="media-body text-right">
+	   							 <span class="media-heading text-uppercase">inventory</span><br>
+	   							 <span>135</span><br>
+	   							 <div class="progress">
+	   								 <div class="progress-bar progress-bar-danger progress-bar-striped" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+	   							 <span>50% increase in 30 days</span>   	 
+	   								 </div>
+	   							 </div>
+	   							 
+	   						 </div>
+	   					 </div>
+	   				 </div>
+		 		</div>
+	   			 <div class="col-md-12">
+	   				 <div class="alert alert-info">
+	   					 <div class="media">
+	   						 <div class="media-left media-middle">   							 
+	   							 <i class="glyphicon glyphicon-duplicate" style="font-size:50px"></i>   							 
+	   						 </div>
+	   						 <div class="media-body text-right">
+	   							 <h1 class="media-heading">3</h1> New Documents
+	   						 </div>
+	   					 </div>
+	   				 </div>
+	   			 </div>
+	   			 <div class="col-md-12">
+	   				 <div class="alert alert-warning">
+	   					 <div class="media">
+	   						 <div class="media-left media-middle">
+	   							 <i class="glyphicon glyphicon-calendar" style="font-size:50px"></i>   							 
+	   						 </div>
+	   						 <div class="media-body text-right">
+	   							 <h1 class="media-heading">6</h1> Court Dates
+	   						 </div>
+	   					 </div>
+	   				 </div>
+	   			 </div>
+	   			 <div class="col-md-12">
+	   				 <div class="alert alert-success">
+	   					 <div class="media">
+	   						 <div class="media-left media-middle">
+	   							 <i class="glyphicon glyphicon-user" style="font-size:50px"></i>   							 
+	   						 </div>
+	   						 <div class="media-body text-right">   							 
+	   							 <h1 class="media-heading">15</h1> New Clients
+	   						 </div>
+	   					 </div>
+	   				 </div>
+	   			 </div>
+			</div>
+		</div>		
+	</div>
+</div>
+    

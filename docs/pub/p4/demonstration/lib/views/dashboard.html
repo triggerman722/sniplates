@@ -1,0 +1,156 @@
+<ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="#/dashboard"><i class="fa fa-home"></i> Home</a></li>
+  <li class="breadcrumb-item active"><a href="#/dashboard"><i class="fa fa-tachometer"></i> Dashboard</a></li>
+</ol>
+ <h1 class="page-header">Dashboard</h1>
+ <div class="row">
+	<div class="col-md-3">
+		<div class="alert alert-danger">
+			<div class="media">
+				<div class="media-left">
+				  <i class="fa fa-folder-open fa-5x" aria-hidden="true"></i>
+				</div>
+				<div class="media-body text-right">
+					<h1 class="media-heading">{{items[0].casecount}}</h1> New Cases
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<div class="alert alert-info">
+			<div class="media">
+				<div class="media-left media-middle">								
+          <i class="fa fa-file-text fa-5x" aria-hidden="true"></i>
+				</div>
+				<div class="media-body text-right">
+					<h1 class="media-heading">{{items[0].documentcount}}</h1> New Documents
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<div class="alert alert-warning">
+			<div class="media">
+				<div class="media-left media-middle">
+          <i class="fa fa-calendar fa-5x" aria-hidden="true"></i>
+				</div>
+				<div class="media-body text-right">
+					<h1 class="media-heading">{{items[0].agendacount}}</h1> Court Dates
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<div class="alert alert-success">
+			<div class="media">
+				<div class="media-left media-middle">
+          <i class="fa fa-users fa-5x" aria-hidden="true"></i>
+				</div>
+				<div class="media-body text-right">								
+					<h1 class="media-heading">{{items[0].clientcount}}</h1> New Clients
+				</div>
+			</div>
+		</div>
+	</div>
+</div>	
+<div class="row">  
+	<div class="col-md-5">
+		<div class="panel panel-default">
+			<div class="panel-heading"><i class="fa fa-map-marker" aria-hidden="true"></i> Active cases by county (Alabama)</div>
+			<div class="panel-body">
+				<div class="clearfix"></div>
+				<div id="regions_div" ></div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-7">
+		<div class="panel panel-default">
+			<div class="panel-heading"><i class="fa fa-line-chart" aria-hidden="true"></i> Case Performance By Type</div>
+			<div class="panel-body">
+				<div class="table-responsive">
+			  		<table class="table table-striped">
+						<tr>
+				  			<th>Type</th>
+							<th>Count</th>
+							<th>Billings</th>
+							<th>Wins</th>
+							<th>Winning %</th>
+						</tr>
+						<tr ng-repeat="case in items[0].tablerows">
+							<td class="text-capitalize">{{case.casetype}}</td>
+							<td class="text-capitalize">{{case.casecount}}</td>
+							<td class="text-capitalize">{{case.billings}}</td>
+							<td class="text-capitalize">{{case.wins}}</td>
+							<td class="text-capitalize">{{case.winningpct}}</td>
+						</tr>
+			  		</table>
+				</div>
+			</div>
+		</div>		
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-6">
+		<div class="panel panel-default">
+			<div class="panel-heading"><i class="fa fa-file-text" aria-hidden="true"></i> Latest Documents</div>
+			<div class="panel-body">
+				<div class="col-md-12">	   				 
+   					 <div ng-repeat="document in items[0].documents" class="list-group">			
+						<div class="media">
+							<div class="media-left">
+							<a href="#/documents/{{$index}}"><i class="{{getFileIcon(document.url)}}"></i></a>
+							</div>
+							<div class="media-body">
+								<div class="col-md-8">
+									<a href="#/documents/{{$index}}" ><h4 class="media-heading">{{document.title}}</h4></a>
+									<p>{{document.url}}</p>
+								</div>
+								<div class="col-md-4">
+									Date Created: <br><a href="#/documents/{{$index}}">{{document.datecreated}}</a>					
+								</div>			
+							</div>
+						</div>						
+					</div>
+		 		</div>	   			 
+			</div>
+		</div>	
+		<div class="panel panel-default">
+			<div class="panel-heading"><i class="fa fa-bar-chart" aria-hidden="true"></i> Case Status</div>
+			<div class="panel-body">
+				<div class="col-md-12">	   				 
+   					 <div ng-repeat="case_status in items[0].case_status">	
+						<p>{{case_status.status}} - {{case_status.value}}%</p>
+						<div class="progress">
+							<div class="progress-bar progress-bar-{{case_status.color}}" role="progressbar" aria-valuenow="{{case_status.value}}" aria-valuemin="0" aria-valuemax="100" style="width: {{case_status.value}}%;">
+								{{case_status.value}}%
+							</div>				
+						</div>						
+					</div>
+		 		</div>	   			 
+			</div>
+		</div>		
+	</div>
+	<div class="col-md-6">
+		<div class="panel panel-default">
+			<div class="panel-heading"><i class="fa fa-user-plus" aria-hidden="true"></i> Top Lawyers</div>
+			<div class="panel-body">
+				<div class="col-md-12">	   				 
+   					 <div ng-repeat="client in items[0].lawyers" class="list-group">			
+						<div class="media">
+							<div class="col-md-4">
+								<a href="#/clients/{{$index}}"><img src="{{client.picture.large}}" alt="{{client.email}}" class="img-circle" /></a>
+							</div>
+							<div class="col-md-8">
+								<a href="#/clients/{{$index}}" ><h3 class="media-heading text-capitalize">{{client.name.first}} {{client.name.last}}</h3></a>
+								<small>
+								<p class="text-muted"><i class="fa fa-envelope" aria-hidden="true"></i> {{client.email}}<br><i class="fa fa-trophy" aria-hidden="true" title="Winning Percent"></i> {{client.winningpct}}<br><i class="fa fa-phone" aria-hidden="true"></i> <a href="#/clients/{{$index}}">{{client.phone}}</a></p>			
+								</small>
+							</div>
+						</div>
+						<hr/>
+					</div>		
+		 		</div>	   			 
+			</div>
+		</div>		
+	</div>
+</div>

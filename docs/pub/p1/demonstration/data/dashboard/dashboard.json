@@ -1,0 +1,99 @@
+[{"casecount":"16","clientcount":"250", "documentcount":"10", "agendacount":"12", "tablerows":
+	 [
+		{"casetype":"civil", "casecount":"35", "wins":"19", "winningpct":"54", "billings":"$453,176.14"},
+		{"casetype":"criminal", "casecount":"30","wins":"14", "winningpct":"47",  "billings":"$2,768,000.50"},
+		{"casetype":"appeals", "casecount":"39", "wins":"38", "winningpct":"97", "billings":"$1,123,000.97"},
+		{"casetype":"family", "casecount":"34", "wins":"22", "winningpct":"65", "billings":"$1,816,000.16"},
+		{"casetype":"bond", "casecount":"34", "wins":"22", "winningpct":"65", "billings":"$73,000.45"},
+		{"casetype":"settlement", "casecount":"34", "wins":"22", "winningpct":"65", "billings":"$1,241,000.23"}
+	],
+	"case_status":[
+		{"status":"Trial", "value":"48", "color":"success"},
+		{"status":"Discovery", "value":"24", "color":"warning"},
+		{"status":"Settlement", "value":"18", "color":"info"},
+		{"status":"Motion", "value":"6", "color":"danger"},
+		{"status":"Appeal", "value":"4", "color":"primary"}
+	],
+	"documents":[
+		{"id":0,"title":"Case file for pre-exam","url":"data/docs/pdf.pdf","datecreated":"2017-01-01"},
+		{"id":1,"title":"Case file for larry","url":"data/docs/0d2988f1-2d42-438b-8715-ea1cf170d699.pdf","datecreated":"2017-01-13"},
+		{"id":2,"title":"Case file for tomorrow","url":"data/docs/6abd33a5-92cf-4a31-9c3b-89b4b4965c07.pdf","datecreated":"2017-01-15"}
+	],
+	"lawyers": [
+		{
+		  "winningpct":"92.8%",
+		  "gender": "male",
+		  "name": {
+		    "title": "mr",
+		    "first": "francis",
+		    "last": "murray"
+		  },
+		  "location": {
+		    "street": "3460 oak lawn ave",
+		    "city": "elk grove",
+		    "state": "indiana",
+		    "postcode": 17397
+		  },
+		  "email": "francis.murray@example.com",
+		  "dob": "1953-03-09 06:37:24",
+		  "phone": "(260)-701-9649",
+		  "cell": "(500)-320-4648",
+		  "id": "057-56-3153",
+		  "picture": {
+		    "large": "https://randomuser.me/api/portraits/men/13.jpg",
+		    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+		    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+		  }
+		},
+		{
+		  "winningpct":"86.4%",
+		  "gender": "male",
+		  "name": {
+		    "title": "mr",
+		    "first": "max",
+		    "last": "thomas"
+		  },
+		  "location": {
+		    "street": "2545 locust rd",
+		    "city": "charlotte",
+		    "state": "oregon",
+		    "postcode": 49655
+		  },
+		  "email": "max.thomas@example.com",
+		  "dob": "1971-11-19 22:14:55",
+		  "phone": "(602)-431-2905",
+		  "cell": "(161)-638-5979",
+		  "id": "100-90-0470",
+		  "picture": {
+		    "large": "https://randomuser.me/api/portraits/men/85.jpg",
+		    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+		    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+		  }
+		},
+		{
+		  "winningpct":"82.6%",
+		  "gender": "male",
+		  "name": {
+		    "title": "mr",
+		    "first": "richard",
+		    "last": "prescott"
+		  },
+		  "location": {
+		    "street": "9478 hogan st",
+		    "city": "providence",
+		    "state": "pennsylvania",
+		    "postcode": 69240
+		  },
+		  "email": "richard.prescott@example.com",
+		  "dob": "1960-03-17 18:04:33",
+		  "phone": "(313)-601-6601",
+		  "cell": "(639)-873-0325",
+		  "id": "145-59-3827",
+		  "picture": {
+		    "large": "https://randomuser.me/api/portraits/men/72.jpg",
+		    "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+		    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+		  }
+		}
+	]
+}]

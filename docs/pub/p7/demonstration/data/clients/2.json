@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "daisy",
+    "last": "fuller"
+  },
+  "location": {
+    "street": "9571 mockingbird ln",
+    "city": "new haven",
+    "state": "kentucky",
+    "postcode": 16386
+  },
+  "email": "daisy.fuller@example.com",
+  "dob": "1952-09-29 22:49:46",
+  "phone": "(768)-327-5441",
+  "cell": "(914)-914-2870",
+  "id": "357-69-3996",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "leslie",
+    "last": "stanley"
+  },
+  "location": {
+    "street": "4521 adams st",
+    "city": "chicago",
+    "state": "illinois",
+    "postcode": 98829
+  },
+  "email": "leslie.stanley@example.com",
+  "dob": "1992-02-16 02:49:56",
+  "phone": "(769)-514-9123",
+  "cell": "(417)-578-3036",
+  "id": "978-58-5600",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/70.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+  }
+}

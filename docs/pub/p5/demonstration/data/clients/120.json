@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "sophia",
+    "last": "franklin"
+  },
+  "location": {
+    "street": "5299 oak ridge ln",
+    "city": "memphis",
+    "state": "maine",
+    "postcode": 91953
+  },
+  "email": "sophia.franklin@example.com",
+  "dob": "1955-12-30 20:37:12",
+  "phone": "(891)-582-6463",
+  "cell": "(089)-505-0728",
+  "id": "496-50-1477",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/48.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+  }
+}

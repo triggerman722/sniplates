@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "maxine",
+    "last": "watkins"
+  },
+  "location": {
+    "street": "9273 shady ln dr",
+    "city": "escondido",
+    "state": "texas",
+    "postcode": 47573
+  },
+  "email": "maxine.watkins@example.com",
+  "dob": "1969-07-15 13:20:30",
+  "phone": "(052)-980-5352",
+  "cell": "(600)-371-0774",
+  "id": "455-17-4102",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
+  }
+}

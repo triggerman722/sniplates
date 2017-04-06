@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "wayne",
+    "last": "warren"
+  },
+  "location": {
+    "street": "9183 pockrus page rd",
+    "city": "green bay",
+    "state": "montana",
+    "postcode": 62261
+  },
+  "email": "wayne.warren@example.com",
+  "dob": "1966-06-10 02:56:28",
+  "phone": "(318)-392-6003",
+  "cell": "(179)-229-1978",
+  "id": "684-10-6228",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/87.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+  }
+}

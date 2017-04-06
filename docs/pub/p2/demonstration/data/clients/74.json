@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "marc",
+    "last": "rodriquez"
+  },
+  "location": {
+    "street": "7229 pecan acres ln",
+    "city": "tulsa",
+    "state": "georgia",
+    "postcode": 18395
+  },
+  "email": "marc.rodriquez@example.com",
+  "dob": "1967-10-08 10:22:15",
+  "phone": "(509)-417-4184",
+  "cell": "(159)-089-6549",
+  "id": "724-38-1232",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+  }
+}

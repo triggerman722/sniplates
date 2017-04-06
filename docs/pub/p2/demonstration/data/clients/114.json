@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "allison",
+    "last": "matthews"
+  },
+  "location": {
+    "street": "4728 spring st",
+    "city": "grand prairie",
+    "state": "utah",
+    "postcode": 73212
+  },
+  "email": "allison.matthews@example.com",
+  "dob": "1959-02-14 16:27:10",
+  "phone": "(588)-555-9456",
+  "cell": "(537)-327-5012",
+  "id": "173-15-6459",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/71.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+  }
+}

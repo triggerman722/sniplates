@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "todd",
+    "last": "alexander"
+  },
+  "location": {
+    "street": "9667 avondale ave",
+    "city": "elgin",
+    "state": "south dakota",
+    "postcode": 44324
+  },
+  "email": "todd.alexander@example.com",
+  "dob": "1969-04-06 08:40:49",
+  "phone": "(129)-037-8036",
+  "cell": "(715)-293-3813",
+  "id": "550-21-2200",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/24.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+  }
+}

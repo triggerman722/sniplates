@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="DemoApp">
+<head>
+	<meta charset="utf-8">
+	<title>DemoApp</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Tests how to render stuff well.">
+	<meta name="author" content="Greg Martin">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type='text/css'>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap-theme.min.css" rel="stylesheet" type='text/css'>
+<style>
+html,body {
+    min-height: 100%;
+    height: 100%;
+}
+.element {
+  position: relative;
+  top: 50%;
+  transform: perspective(1px) translateY(-50%);
+}
+</style>
+</head>
+
+<body>
+
+<form class="element col-md-4 col-md-offset-4" ng-controller="DemoCtrl">
+	Enter a color: <input type=text ng-model="godknows"> <button class="btn btn-danger" ng-click="buildGradient(godknows)">Go</button>
+</form>			
+<div style="background-color:{{original}}">Original</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular-resource.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular-route.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script src="lib/js/app.js"></script>
+
+</body>
+</html>

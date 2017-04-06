@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "eli",
+    "last": "burton"
+  },
+  "location": {
+    "street": "2763 royal ln",
+    "city": "philadelphia",
+    "state": "washington",
+    "postcode": 19756
+  },
+  "email": "eli.burton@example.com",
+  "dob": "1951-09-22 21:36:45",
+  "phone": "(521)-283-6158",
+  "cell": "(695)-215-8983",
+  "id": "321-73-3734",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/83.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+  }
+}

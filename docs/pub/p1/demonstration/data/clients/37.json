@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "elijah",
+    "last": "olson"
+  },
+  "location": {
+    "street": "5626 saddle dr",
+    "city": "sunnyvale",
+    "state": "nevada",
+    "postcode": 13375
+  },
+  "email": "elijah.olson@example.com",
+  "dob": "1951-12-20 02:49:44",
+  "phone": "(612)-672-0048",
+  "cell": "(867)-553-1471",
+  "id": "487-30-3966",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/59.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+  }
+}

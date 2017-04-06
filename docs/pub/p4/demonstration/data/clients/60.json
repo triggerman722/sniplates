@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "tara",
+    "last": "price"
+  },
+  "location": {
+    "street": "7357 e little york rd",
+    "city": "houston",
+    "state": "tennessee",
+    "postcode": 35990
+  },
+  "email": "tara.price@example.com",
+  "dob": "1989-02-11 15:36:41",
+  "phone": "(186)-040-0734",
+  "cell": "(595)-131-9940",
+  "id": "577-36-2127",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+  }
+}

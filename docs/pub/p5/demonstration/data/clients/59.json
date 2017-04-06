@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "penny",
+    "last": "evans"
+  },
+  "location": {
+    "street": "3924 paddock way",
+    "city": "denton",
+    "state": "nevada",
+    "postcode": 40510
+  },
+  "email": "penny.evans@example.com",
+  "dob": "1964-10-03 16:06:28",
+  "phone": "(979)-648-1882",
+  "cell": "(906)-814-1250",
+  "id": "169-42-4737",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+  }
+}

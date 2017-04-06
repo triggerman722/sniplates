@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "lesa",
+    "last": "kelly"
+  },
+  "location": {
+    "street": "2479 timber wolf trail",
+    "city": "port st. lucie",
+    "state": "pennsylvania",
+    "postcode": 26907
+  },
+  "email": "lesa.kelly@example.com",
+  "dob": "1952-08-16 21:10:37",
+  "phone": "(736)-843-9130",
+  "cell": "(445)-752-7365",
+  "id": "187-86-8383",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+  }
+}

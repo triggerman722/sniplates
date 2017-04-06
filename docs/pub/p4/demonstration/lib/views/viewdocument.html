@@ -1,0 +1,11 @@
+<ol class="breadcrumb">
+	<li><a href="#/dashboard"><i class="fa fa-home"></i> Home</a></li>
+	<li><a href="#/documents"><i class="fa fa-file-text"></i> Documents</a></li>  
+	<li class="active"><i class="fa fa-file"></i> {{item.title}}</li>
+</ol>
+<h1 class="page-header">{{item.title}}</h1>
+<p> Date Created: {{item.datecreated}}</p>
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" ng-src="{{item.url}}"></iframe>
+</div>    
+<hr>

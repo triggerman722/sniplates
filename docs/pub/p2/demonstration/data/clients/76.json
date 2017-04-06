@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "lucas",
+    "last": "rice"
+  },
+  "location": {
+    "street": "3744 rolling green rd",
+    "city": "cincinnati",
+    "state": "texas",
+    "postcode": 74969
+  },
+  "email": "lucas.rice@example.com",
+  "dob": "1951-04-17 10:26:27",
+  "phone": "(575)-114-5601",
+  "cell": "(873)-743-9066",
+  "id": "091-64-0596",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/36.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+  }
+}

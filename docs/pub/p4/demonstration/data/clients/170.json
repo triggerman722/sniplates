@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "wayne",
+    "last": "hunt"
+  },
+  "location": {
+    "street": "6211 railroad st",
+    "city": "stanley",
+    "state": "iowa",
+    "postcode": 79498
+  },
+  "email": "wayne.hunt@example.com",
+  "dob": "1951-02-26 19:30:04",
+  "phone": "(345)-722-9514",
+  "cell": "(993)-785-2480",
+  "id": "249-59-2015",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+  }
+}

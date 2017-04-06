@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "vincent",
+    "last": "mccoy"
+  },
+  "location": {
+    "street": "6625 central st",
+    "city": "miami",
+    "state": "connecticut",
+    "postcode": 23469
+  },
+  "email": "vincent.mccoy@example.com",
+  "dob": "1974-08-06 05:31:56",
+  "phone": "(462)-220-7652",
+  "cell": "(322)-424-3635",
+  "id": "738-78-0746",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/10.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+  }
+}

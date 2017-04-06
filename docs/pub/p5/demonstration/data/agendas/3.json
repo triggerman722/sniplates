@@ -1,0 +1,11 @@
+{
+  "title": "Bills",
+  "products": [
+    {
+      "productTitle": "Solid Light Tuna in Vegetable Oil",
+      "productDescription": "Available in 198g, 99g",
+      "smallImage": "solid_tuna_large",
+      "largeImage": "solid_tuna_large"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "michelle",
+    "last": "ryan"
+  },
+  "location": {
+    "street": "9412 eason rd",
+    "city": "simi valley",
+    "state": "wisconsin",
+    "postcode": 22557
+  },
+  "email": "michelle.ryan@example.com",
+  "dob": "1962-07-22 03:41:13",
+  "phone": "(861)-484-4504",
+  "cell": "(676)-337-9638",
+  "id": "759-65-8837",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "leona",
+    "last": "oliver"
+  },
+  "location": {
+    "street": "8517 e little york rd",
+    "city": "hamsburg",
+    "state": "oregon",
+    "postcode": 49754
+  },
+  "email": "leona.oliver@example.com",
+  "dob": "1987-08-29 15:58:55",
+  "phone": "(972)-542-3959",
+  "cell": "(368)-374-0131",
+  "id": "411-88-5946",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/83.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+  }
+}

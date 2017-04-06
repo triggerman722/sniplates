@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "gordon",
+    "last": "kim"
+  },
+  "location": {
+    "street": "9077 westheimer rd",
+    "city": "greensboro",
+    "state": "minnesota",
+    "postcode": 13930
+  },
+  "email": "gordon.kim@example.com",
+  "dob": "1972-02-09 18:17:16",
+  "phone": "(736)-131-9475",
+  "cell": "(918)-352-7201",
+  "id": "662-04-1912",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+  }
+}

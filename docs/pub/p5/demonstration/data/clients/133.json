@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "shane",
+    "last": "morgan"
+  },
+  "location": {
+    "street": "7290 homestead rd",
+    "city": "grand prairie",
+    "state": "hawaii",
+    "postcode": 82449
+  },
+  "email": "shane.morgan@example.com",
+  "dob": "1961-01-26 15:03:19",
+  "phone": "(175)-332-0659",
+  "cell": "(609)-612-4199",
+  "id": "940-08-4832",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+  }
+}

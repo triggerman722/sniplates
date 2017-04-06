@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "carter",
+    "last": "hale"
+  },
+  "location": {
+    "street": "7918 poplar dr",
+    "city": "milwaukee",
+    "state": "colorado",
+    "postcode": 87314
+  },
+  "email": "carter.hale@example.com",
+  "dob": "1959-09-10 12:01:17",
+  "phone": "(391)-904-9227",
+  "cell": "(414)-643-9954",
+  "id": "087-37-6171",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+  }
+}

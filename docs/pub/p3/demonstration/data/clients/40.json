@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "mario",
+    "last": "mills"
+  },
+  "location": {
+    "street": "1167 shady ln dr",
+    "city": "red oak",
+    "state": "california",
+    "postcode": 32640
+  },
+  "email": "mario.mills@example.com",
+  "dob": "1992-03-28 16:50:28",
+  "phone": "(551)-919-0720",
+  "cell": "(353)-445-3899",
+  "id": "158-12-5272",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+  }
+}

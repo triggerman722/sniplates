@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "landon",
+    "last": "simmmons"
+  },
+  "location": {
+    "street": "4768 hunters creek dr",
+    "city": "ennis",
+    "state": "mississippi",
+    "postcode": 72131
+  },
+  "email": "landon.simmmons@example.com",
+  "dob": "1990-10-04 21:31:30",
+  "phone": "(947)-453-5505",
+  "cell": "(048)-982-5152",
+  "id": "668-99-6320",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/65.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+  }
+}

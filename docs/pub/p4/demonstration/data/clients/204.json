@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "marion",
+    "last": "jenkins"
+  },
+  "location": {
+    "street": "2386 adams st",
+    "city": "providence",
+    "state": "georgia",
+    "postcode": 87899
+  },
+  "email": "marion.jenkins@example.com",
+  "dob": "1984-11-17 18:31:08",
+  "phone": "(628)-148-5022",
+  "cell": "(461)-022-1247",
+  "id": "967-62-4736",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/16.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+  }
+}

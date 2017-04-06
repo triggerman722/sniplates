@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "catherine",
+    "last": "price"
+  },
+  "location": {
+    "street": "1802 eason rd",
+    "city": "fresno",
+    "state": "mississippi",
+    "postcode": 31481
+  },
+  "email": "catherine.price@example.com",
+  "dob": "1992-11-11 10:24:26",
+  "phone": "(278)-206-2619",
+  "cell": "(208)-720-4300",
+  "id": "408-94-2918",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+  }
+}

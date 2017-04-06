@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "eva",
+    "last": "fields"
+  },
+  "location": {
+    "street": "6097 white oak dr",
+    "city": "albany",
+    "state": "florida",
+    "postcode": 56916
+  },
+  "email": "eva.fields@example.com",
+  "dob": "1980-12-21 19:10:24",
+  "phone": "(049)-264-9474",
+  "cell": "(066)-350-6802",
+  "id": "840-49-6980",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "ellen",
+    "last": "bailey"
+  },
+  "location": {
+    "street": "5912 woodland st",
+    "city": "vancouver",
+    "state": "pennsylvania",
+    "postcode": 21926
+  },
+  "email": "ellen.bailey@example.com",
+  "dob": "1991-11-14 12:39:12",
+  "phone": "(473)-426-5083",
+  "cell": "(448)-708-1013",
+  "id": "481-40-2080",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+  }
+}

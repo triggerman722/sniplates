@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "andy",
+    "last": "howard"
+  },
+  "location": {
+    "street": "6559 marsh ln",
+    "city": "evansville",
+    "state": "oregon",
+    "postcode": 57989
+  },
+  "email": "andy.howard@example.com",
+  "dob": "1965-11-30 03:29:25",
+  "phone": "(577)-098-9541",
+  "cell": "(517)-118-2386",
+  "id": "774-53-1765",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/0.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+  }
+}

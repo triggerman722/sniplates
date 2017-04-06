@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "zachary",
+    "last": "johnston"
+  },
+  "location": {
+    "street": "2375 james st",
+    "city": "yonkers",
+    "state": "new mexico",
+    "postcode": 20269
+  },
+  "email": "zachary.johnston@example.com",
+  "dob": "1970-07-07 12:29:48",
+  "phone": "(846)-868-1255",
+  "cell": "(614)-057-4552",
+  "id": "157-81-7933",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+  }
+}

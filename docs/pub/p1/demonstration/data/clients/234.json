@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "aubree",
+    "last": "ellis"
+  },
+  "location": {
+    "street": "6440 e sandy lake rd",
+    "city": "greensboro",
+    "state": "new jersey",
+    "postcode": 62935
+  },
+  "email": "aubree.ellis@example.com",
+  "dob": "1966-02-06 10:32:30",
+  "phone": "(481)-676-1460",
+  "cell": "(015)-702-8987",
+  "id": "219-60-4756",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+  }
+}

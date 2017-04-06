@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "erika",
+    "last": "gomez"
+  },
+  "location": {
+    "street": "7076 mcgowen st",
+    "city": "plano",
+    "state": "tennessee",
+    "postcode": 90135
+  },
+  "email": "erika.gomez@example.com",
+  "dob": "1949-05-21 03:06:59",
+  "phone": "(410)-078-2378",
+  "cell": "(150)-501-2579",
+  "id": "388-24-9532",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/69.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/69.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
+  }
+}

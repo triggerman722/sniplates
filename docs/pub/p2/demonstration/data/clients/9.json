@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "francis",
+    "last": "murray"
+  },
+  "location": {
+    "street": "3460 oak lawn ave",
+    "city": "elk grove",
+    "state": "indiana",
+    "postcode": 17397
+  },
+  "email": "francis.murray@example.com",
+  "dob": "1953-03-09 06:37:24",
+  "phone": "(260)-701-9649",
+  "cell": "(500)-320-4648",
+  "id": "057-56-3153",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+  }
+}

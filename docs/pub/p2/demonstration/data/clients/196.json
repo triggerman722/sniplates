@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "wanda",
+    "last": "watts"
+  },
+  "location": {
+    "street": "9847 country club rd",
+    "city": "vancouver",
+    "state": "montana",
+    "postcode": 80320
+  },
+  "email": "wanda.watts@example.com",
+  "dob": "1952-02-09 05:20:28",
+  "phone": "(447)-152-4526",
+  "cell": "(960)-044-6279",
+  "id": "892-90-1552",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/70.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+  }
+}

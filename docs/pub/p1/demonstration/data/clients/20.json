@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "tamara",
+    "last": "ortiz"
+  },
+  "location": {
+    "street": "2971 w gray st",
+    "city": "pomona",
+    "state": "mississippi",
+    "postcode": 11284
+  },
+  "email": "tamara.ortiz@example.com",
+  "dob": "1973-10-07 16:37:17",
+  "phone": "(250)-221-3527",
+  "cell": "(339)-146-2443",
+  "id": "936-85-7295",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+  }
+}

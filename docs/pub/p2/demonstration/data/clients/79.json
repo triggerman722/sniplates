@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "sean",
+    "last": "adams"
+  },
+  "location": {
+    "street": "8320 college st",
+    "city": "columbia",
+    "state": "alabama",
+    "postcode": 22631
+  },
+  "email": "sean.adams@example.com",
+  "dob": "1947-08-01 21:30:55",
+  "phone": "(551)-233-1150",
+  "cell": "(333)-077-1266",
+  "id": "602-17-2610",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/47.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+  }
+}

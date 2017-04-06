@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "marlene",
+    "last": "crawford"
+  },
+  "location": {
+    "street": "2253 hamilton ave",
+    "city": "chula vista",
+    "state": "idaho",
+    "postcode": 48028
+  },
+  "email": "marlene.crawford@example.com",
+  "dob": "1952-08-22 17:16:18",
+  "phone": "(610)-478-5542",
+  "cell": "(781)-860-2615",
+  "id": "196-62-7199",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/51.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
+  }
+}

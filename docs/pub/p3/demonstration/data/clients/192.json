@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "tyrone",
+    "last": "martin"
+  },
+  "location": {
+    "street": "5482 karen dr",
+    "city": "tempe",
+    "state": "north carolina",
+    "postcode": 22646
+  },
+  "email": "tyrone.martin@example.com",
+  "dob": "1956-12-08 15:36:04",
+  "phone": "(693)-916-1410",
+  "cell": "(592)-731-5194",
+  "id": "499-19-0201",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
+  }
+}

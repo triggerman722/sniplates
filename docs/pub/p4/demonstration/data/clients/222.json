@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "pat",
+    "last": "rice"
+  },
+  "location": {
+    "street": "2332 spring st",
+    "city": "plano",
+    "state": "virginia",
+    "postcode": 33506
+  },
+  "email": "pat.rice@example.com",
+  "dob": "1992-03-06 05:22:32",
+  "phone": "(044)-144-0896",
+  "cell": "(542)-071-3082",
+  "id": "970-53-0997",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+  }
+}

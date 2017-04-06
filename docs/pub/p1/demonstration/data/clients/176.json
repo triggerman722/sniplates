@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "megan",
+    "last": "pierce"
+  },
+  "location": {
+    "street": "2481 frances ct",
+    "city": "sunnyvale",
+    "state": "illinois",
+    "postcode": 71354
+  },
+  "email": "megan.pierce@example.com",
+  "dob": "1975-03-29 01:38:53",
+  "phone": "(818)-409-5038",
+  "cell": "(132)-752-9102",
+  "id": "518-37-1351",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+  }
+}

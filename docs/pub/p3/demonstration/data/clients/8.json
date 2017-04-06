@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "carlos",
+    "last": "lee"
+  },
+  "location": {
+    "street": "5193 ranchview dr",
+    "city": "detroit",
+    "state": "wyoming",
+    "postcode": 16685
+  },
+  "email": "carlos.lee@example.com",
+  "dob": "1958-07-02 02:42:15",
+  "phone": "(424)-746-8425",
+  "cell": "(074)-662-4762",
+  "id": "895-78-1494",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+  }
+}

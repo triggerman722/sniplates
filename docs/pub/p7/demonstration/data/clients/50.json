@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "edward",
+    "last": "morris"
+  },
+  "location": {
+    "street": "1732 saddle dr",
+    "city": "norman",
+    "state": "delaware",
+    "postcode": 58271
+  },
+  "email": "edward.morris@example.com",
+  "dob": "1974-12-16 01:02:54",
+  "phone": "(388)-568-4292",
+  "cell": "(711)-038-1950",
+  "id": "901-41-0222",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/33.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+  }
+}

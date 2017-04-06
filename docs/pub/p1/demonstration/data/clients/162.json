@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "robin",
+    "last": "duncan"
+  },
+  "location": {
+    "street": "4565 spring st",
+    "city": "fort lauderdale",
+    "state": "new mexico",
+    "postcode": 81101
+  },
+  "email": "robin.duncan@example.com",
+  "dob": "1966-09-07 08:54:33",
+  "phone": "(779)-656-9292",
+  "cell": "(708)-476-5676",
+  "id": "718-99-8587",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+  }
+}

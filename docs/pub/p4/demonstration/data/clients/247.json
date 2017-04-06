@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "greg",
+    "last": "brooks"
+  },
+  "location": {
+    "street": "3397 bruce st",
+    "city": "flint",
+    "state": "washington",
+    "postcode": 73158
+  },
+  "email": "greg.brooks@example.com",
+  "dob": "1982-04-03 04:47:06",
+  "phone": "(640)-704-0986",
+  "cell": "(292)-687-4459",
+  "id": "404-98-7396",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+  }
+}

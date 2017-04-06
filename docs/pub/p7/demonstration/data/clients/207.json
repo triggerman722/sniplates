@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "troy",
+    "last": "wade"
+  },
+  "location": {
+    "street": "1941 taylor st",
+    "city": "fort worth",
+    "state": "alabama",
+    "postcode": 56428
+  },
+  "email": "troy.wade@example.com",
+  "dob": "1982-10-20 11:11:41",
+  "phone": "(174)-424-0209",
+  "cell": "(077)-359-2547",
+  "id": "088-93-1757",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/25.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+  }
+}

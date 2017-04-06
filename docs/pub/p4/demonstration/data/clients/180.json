@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "julia",
+    "last": "montgomery"
+  },
+  "location": {
+    "street": "7833 taylor st",
+    "city": "dayton",
+    "state": "tennessee",
+    "postcode": 98271
+  },
+  "email": "julia.montgomery@example.com",
+  "dob": "1972-10-12 05:34:27",
+  "phone": "(165)-310-1783",
+  "cell": "(797)-055-3760",
+  "id": "468-22-6267",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/6.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+  }
+}

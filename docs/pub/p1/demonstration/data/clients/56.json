@@ -1,0 +1,24 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "ms",
+    "first": "shelly",
+    "last": "warren"
+  },
+  "location": {
+    "street": "4181 pecan acres ln",
+    "city": "laredo",
+    "state": "colorado",
+    "postcode": 29172
+  },
+  "email": "shelly.warren@example.com",
+  "dob": "1944-12-16 09:09:49",
+  "phone": "(084)-810-9682",
+  "cell": "(156)-789-4780",
+  "id": "245-16-5114",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+  }
+}

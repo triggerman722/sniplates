@@ -1,0 +1,24 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "morris",
+    "last": "torres"
+  },
+  "location": {
+    "street": "5922 green rd",
+    "city": "rancho cucamonga",
+    "state": "new jersey",
+    "postcode": 30078
+  },
+  "email": "morris.torres@example.com",
+  "dob": "1953-12-01 00:51:55",
+  "phone": "(764)-473-9877",
+  "cell": "(013)-479-3317",
+  "id": "724-07-1193",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+  }
+}
