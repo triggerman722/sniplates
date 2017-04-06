@@ -2,7 +2,7 @@
 
 A very similar template to [Case Management Reimagined](https://triggerman722.github.io/sniplates/pub/p1/demonstration/index.html#/dashboard), however, this template it a full width administration template with a sidebar.
 
-![Case Management Sidebar](/screen.png?raw=true "Case Management Sidebar")
+![Case Management Sidebar](screen.png?raw=true "Case Management Sidebar")
 
 ## Features
 * [Google Maps Integration](#google)
