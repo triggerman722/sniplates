@@ -1,0 +1,173 @@
+[
+ {
+   "Item": "NetWrittenPremiums",
+   "End": 47832,
+   "Start": 16482,
+   "Count": 23,
+   "Per": 1000000,
+   "CPY": 1363043478,
+   "CP100MS": 4.32218251604791
+ },
+ {
+   "Item": "Taxes and Levies",
+   "End": 6457.32,
+   "Start": 2225.07,
+   "Count": 23,
+   "Per": 1000000,
+   "CPY": 184010869.6,
+   "CP100MS": 0.583494639666468
+ },
+ {
+   "Item": "Profits",
+   "End": 4161.384,
+   "Start": 1433.934,
+   "Count": 23,
+   "Per": 1000000,
+   "CPY": 118584782.6,
+   "CP100MS": 0.376029878896168
+ },
+ {
+   "Item": "Operating Expenses",
+   "End": 10283.88,
+   "Start": 3543.63,
+   "Count": 23,
+   "Per": 1000000,
+   "CPY": 293054347.8,
+   "CP100MS": 0.929269240950301
+ },
+ {
+   "Item": "NetCLaimsIncurred",
+   "End": 30096,
+   "Start": 12043,
+   "Count": 23,
+   "Per": 1000000,
+   "CPY": 784913043.5,
+   "CP100MS": 2.48894293340392
+ },
+ {
+   "Item": "CatastrophicLosses",
+   "End": 1210421,
+   "Start": 86286,
+   "Count": 34,
+   "Per": 1000,
+   "CPY": 33062794.12,
+   "CP100MS": 0.104841432387262
+ },
+ {
+   "Item": "Auto Premiums",
+   "End": 20331,
+   "Start": 8697,
+   "Count": 23,
+   "Per": 1000000,
+   "CPY": 505826087,
+   "CP100MS": 1.60396399973529
+ },
+ {
+   "Item": "Personal Property Premiums",
+   "End": 11013,
+   "Start": 3042,
+   "Count": 23,
+   "Per": 1000000,
+   "CPY": 346565217.4,
+   "CP100MS": 1.09895109522864
+ },
+ {
+   "Item": "Commercial Property Premiums",
+   "End": 6861,
+   "Start": 2337,
+   "Count": 23,
+   "Per": 1000000,
+   "CPY": 196695652.2,
+   "CP100MS": 0.623717821454569
+ },
+ {
+   "Item": "Liability Premiums",
+   "End": 4986,
+   "Start": 1430,
+   "Count": 23,
+   "Per": 1000000,
+   "CPY": 154608695.7,
+   "CP100MS": 0.49026095780116
+ },
+ {
+   "Item": "Other Premiums",
+   "End": 4641,
+   "Start": 975,
+   "Count": 23,
+   "Per": 1000000,
+   "CPY": 159391304.3,
+   "CP100MS": 0.505426510489048
+ },
+ {
+   "Item": "ThirdPartyLiabilityClaimCosts",
+   "End": 5280634,
+   "Start": 1704172,
+   "Count": 24,
+   "Per": 1000,
+   "CPY": 149019250,
+   "CP100MS": 0.472536941907661
+ },
+ {
+   "Item": "AccidentBenefitsClaimCosts",
+   "End": 3024947,
+   "Start": 953985,
+   "Count": 24,
+   "Per": 1000,
+   "CPY": 86290083.33,
+   "CP100MS": 0.273624059276171
+ },
+ {
+   "Item": "Collision",
+   "End": 1691558,
+   "Start": 775413,
+   "Count": 24,
+   "Per": 1000,
+   "CPY": 38172708.33,
+   "CP100MS": 0.121044864070692
+ },
+ {
+   "Item": "Comprehensive",
+   "End": 1100833,
+   "Start": 617102,
+   "Count": 24,
+   "Per": 1000,
+   "CPY": 20155458.33,
+   "CP100MS": 0.0639125391087434
+ },
+ {
+   "Item": "Other",
+   "End": 622970,
+   "Start": 105832,
+   "Count": 24,
+   "Per": 1000,
+   "CPY": 21547416.67,
+   "CP100MS": 0.0683264100287502
+ },
+ {
+   "Item": "Total",
+   "End": 11720942,
+   "Start": 4156504,
+   "Count": 24,
+   "Per": 1000,
+   "CPY": 315184916.7,
+   "CP100MS": 0.999444814392018
+ },
+ {
+   "Item": "CargoRecovered",
+   "End": 223,
+   "Start": 216,
+   "Count": 1,
+   "Per": 1,
+   "CPY": 7,
+   "CP100MS": 2.21968543886e-8
+ },
+ {
+   "Item": "TruckTailerCargoHeavyEquipmentLossAlerts",
+   "End": 1632,
+   "Start": 1255.384615,
+   "Count": 1,
+   "Per": 1,
+   "CPY": 376.6153846,
+   "CP100MS": 0.0000011942395504039
+ }
+]
